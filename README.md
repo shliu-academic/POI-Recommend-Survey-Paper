@@ -37,48 +37,14 @@ Table of Contents
 ## Survey
 1. Md. Ashraful Islam, Mir Mahathir Mohammad, Sarkar Snigdha Sarathi Das, Mohammed Eunus Ali. **A survey on deep learning based Point-of-Interest (POI) recommendations**. Neurocomputing 2022. [[Paper]](https://doi.org/10.1016/j.neucom.2021.05.114)
 
-2. 杨睿, 王应宽, 王宝济. **基于WoS文献计量学和知识图谱的农业机器人进展与趋势**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220106?st=search)
-
-
-3. 吴华瑞, 郭威, 邓颖, 王郝日钦, 韩笑, 黄素芳. **农业文本语义理解技术综述**. 农业机械学报 2022. [[paper]](http://www.j-csam.org/jcsam/ch/reader/create_pdf.aspx?file_no=20220501&flag=1&journal_id=jcsam)
-
-
-4. 李岩, 胡文岭. **基于知识图谱的农业知识问答系统研究**. 智慧农业导刊 2021. [[paper]](http://www.zhnydk.com/WKA/WebPublication/paperDigest.aspx?paperID=1046761d-737b-4fa9-88f2-02a6a14d220f)
-
-
-5. Liu Xiaoxue, Bai Xuesong, Wang Longhe, Ren Bingyuan, Lu Shuhan, Li Lin. **Review and Trend Analysis of Knowledge Graphs for Crop Pest and Diseases**. IEEE Access 2019. [[paper]](https://ieeexplore.ieee.org/abstract/document/8710246)
-
-
-6. Jonathan Binas, Leonie Luginbuehl, Yoshua Bengio. **Reinforcement Learning for Sustainable Agriculture**. CCAI workshop at ICML 2019. [[Paper]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2019/32/paper.pdf)
-
-
-7. 盖钧镒, 刘康, 赵晋铭. **中国作物种业科学技术发展的评述**. 中国农业科学 2015. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2015.17.001)
-
-
-8. 赵瑞雪, 孟宪学, 寇远涛, 鲜国建, 朱亮. **面向农业科技创新的多维知识服务体系构建**. 中国农业科学 2013. [[Paper]](https://www.chinaagrisci.com/CN/10.3864/j.issn.0578-1752.2013.24.005)
-
-
-
-
-
-<!-- ## IJCAI-22 -->
-<!-- ## CIKM -->
-<!-- ## AAAI -->
-<!-- ## ICDE -->
-
-<!-- ## Report -->
-<!-- 1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
-Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. --> 
-
-
-<!-- ## Task
-1. Naushad UzZaman, Hector Llorens, Leon Derczynski, Marc Verhagen, James Allen, and James Pustejovsky. [SemEval-2013 Task 1: TEMPEVAL-3: Evaluating Time Expressions,Events, and Temporal Relations](https://www.aclweb.org/anthology/S13-2001.pdf). 2013. -->
-
 
 
 ## Dataset
-1. Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf). EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf)
-
+1. Foursquare Dataset. [[Download]](https://sites.google.com/site/yangdingqi/home/foursquare-dataset)
+2. Gowalla Dataset. [[Download]](http://snap.stanford.edu/data/loc-Gowalla.html)
+3. Brightkite Dataset. [[Download]](http://snap.stanford.edu/data/loc-Brightkite.html)
+4. Weeplaces Dataset. [[Download]](https://www.yongliu.org/datasets.html)
+5. Yelp Dataset. [[Download]](https://www.yelp.com/dataset/)
 
 
 
