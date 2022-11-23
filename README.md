@@ -9,6 +9,7 @@ Table of Contents
   * [Dataset](#Dataset)
   * [RNN Based Models](#RNN_Based_Models)
   * [LSTM Models](#LSTM_Models)
+  * *dv
   * [GRU Models](#GRU_Models)
   * [Graph Embedding Models](#Graph_Embedding_Models)
   * [GAN Models](#GAN_Models)
@@ -38,6 +39,21 @@ Table of Contents
 
 
 ## LSTM_Models
+### Basic_LSTM
+1. Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li. **AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/715)
+
+
+### Bi_LSTM
+1. Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li. **AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/715)
+
+
+
+### Modified_LSTM
+1. Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li. **AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/715)
+
+
+
+### Self-attention
 1. Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li. **AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/715)
 
 
