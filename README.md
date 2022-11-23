@@ -6,32 +6,13 @@ Table of Contents
 
   <!-- * [Task](#Task) -->
   * [Survey](#Survey)
-  * [Report](#Report)
   * [Dataset](#Dataset)
-  * [Special Track on Top-tier Venues](#Special_Track_on_Top-tier_Venues)
-  * [Agriculture-Aware Language Models](#Agriculture-Aware_Language_Models)
-  * [Agriculture-Aware Knowledge Extraction](#Agriculture-Aware_Knowledge_Extraction)
-  * [Agriculture-Aware Knowledge Reasoning](#Agriculture-Aware_Knowledge_Reasoning)
-  * [Agriculture-Aware Knowledge Graph Construction](#Agriculture-Aware_Knowledge_Graph_Construction)
-  * [Downstream Applications](#Downstream_Applications)
-  * [Soil Moisture](#Soil_Moisture)
-  * [Crop Yield Prediction](#Crop_Yield_Prediction)
-  * [Thesis](#Thesis)
-  * [Tools](#Tools)
-
-<!--   * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
-  * [Temporal Semantic Unit Extraction](#Temporal_Semantic_Unit_Extraction)
-  * [Temporal Relation Checking](#Temporal_Relation_Checking)
-  * [Temporal Text Mining](#Temporal_Text_Mining) -->
-<!--   * [Event-Centric Temporal Data Mining](#Event_Centric_Temporal_Data_Mining)
-  * [Event-Centric Temporal Knowledge Graph](#Event_Centric_Temporal_Knowledge_Graph)
-  * [Evolution Analysis and Prediction based Event](#Evolution_Analysis_and_Prediction_based_Event)
-  * [Deep Spatial-Temporal Graph Modeling](#Deep_Spatial-Temporal_Graph_Modeling)
-  * [Embedding Learning of Temporal Knowledge Graph](#Embedding_Learning_of_Temporal_Knowledge_Graph)
-  * [Temporal Knowledge Graph Curation and Visulization](#Temporal_Knowledge_Graph_Curation_and_Visulization)
-  * [Temporal Commonsense Understanding](#Temporal_Commonsense_Understanding)
-  * [IR for Spatio-Temporal Graphs](#IR_for_Spatio_Temporal_Graphs)  -->
-
+  * [RNN Based Models](#RNN_Based_Models)
+  * [LSTM Models](#LSTM_Models)
+  * [GRU Models](#GRU_Models)
+  * [Graph Embedding Models](#Graph_Embedding_Models)
+  * [GAN Models](#GAN_Models)
+  * [Other Models](#Other_Models)
 
 
 ## Survey
@@ -48,17 +29,17 @@ Table of Contents
 
 
 
-## Special_Track_on_Top-tier_Venues
+## RNN_Based_Models
 [[Special Track on AI for Good Accepted Papers]](https://ijcai-22.org/special-track-on-ai-for-good-accepted-papers/)
 
 
 
-## Agriculture-Aware_Language_Models
+## LSTM_Models
 1. Saed Rezayi, Zhengliang Liu, Zihao Wu, Chandra Dhakal, Bao Ge, Chen Zhen, Tianming Liu, Sheng Li. **AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition**. IJCAI 2022. [[paper]](https://www.ijcai.org/proceedings/2022/715)
 
 
 
-## Agriculture-Aware_Knowledge_Extraction
+## GRU_Models
 1. Quoc HungNgo, Tahar Kechadi, Nhien-AnLe-Khac. **Knowledge representation in digital agriculture: A step towards standardised model**. Computers and Electronics in Agriculture 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922004446)
 
 
@@ -79,12 +60,12 @@ Table of Contents
 
 
 
-## Agriculture-Aware_Knowledge_Reasoning
+## Graph_Embedding_Models
 1. 孙 敏, 罗卫红, 相 林, 冯万利, 吕慧明. **设施果菜病害诊断的知识表达与推理模型**. 农业工程学报 2012. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20121722?st=search)
 
 
 
-## Agriculture-Aware_Knowledge_Graph_Construction
+## GAN_Models
 1. 吕东东, 陈俊华, 毛典辉, 张青川, 赵敏, 郝治昊. **农产品标准领域知识图谱实体关系抽取及关联性分析**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220935?st=search)
 
 
@@ -98,7 +79,7 @@ Table of Contents
 
 
 
-## Downstream_Applications
+## Other_Models
 1. Maryam Tabar, Dongwon Lee, David P. Hughes, Amulya Yadav. **Mitigating Low Agricultural Productivity of Smallholder Farms in Africa Time-Series Forecasting for Environm**. AAAI 2022. [[Paper]](http://amulyayadav.com/Papers/iaai22.pdf)
 
 
@@ -120,98 +101,6 @@ Table of Contents
 7. Eugene Seo and Rebecca A. Hutchinson. **Predicting Links in Plant-Pollinator Interaction Networks Using Latent Factor Models With Implicit Feedback**. AAAI 2018.  [[paper]](https://andrewsforest.oregonstate.edu/sites/default/files/lter/pubs/pdf/pub5084.pdf)
 
 
-
-## Soil_Moisture
-1. Anoushka Vyas1, Sambaran Bandyopadhyay2∗†. **Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture**. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0720.pdf)
-
-
-
-## Crop_Yield_Prediction
-1. Anna X. Wang, Caelin Tran, Nikhil Desai, David Lobell, Stefano Ermon. **Deep Transfer Learning For Crop Yield Prediction With Remote Sensing Data**. COMPSS 2018. [[Paper]](https://dl.acm.org/doi/10.1145/3209811.3212707)
-
-
-2. Tian Jiang, Meichen Huang, Ignacio Segovia-Dominguez, Nathaniel Newlands, Yulia Gel. **Learning Space-Time Crop Yield Patterns with Zigzag Persistence-Based LSTM: Toward More Reliable Digital Agriculture Insurance**. AAAI 2022. [[Paper]](https://aaai-2022.virtualchair.net/poster_emer170)
-
-
-
-<!-- ## Temporal_Relation_Checking
-1. Partha Pratim Talukdar, Derry Wijaya, and Tom Mitchell. [Coupled Temporal Scoping of Relational Facts](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf). WSDM 2012. [[Paper]](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf)
-
-
-## Temporal_Text_Mining
-1. Junsha Chen, Neng Gao, Cong Xue, Chenyang Tu, and Daren Zha. [Perceiving Topic Bubbles: Local Topic Detection in Spatio-Temporal Tweet Stream](
-https://link.springer.com/content/pdf/10.1007%2F978-3-030-18579-4_43.pdf). DASFAA 2019. [[Paper]](
-https://link.springer.com/content/pdf/10.1007%2F978-3-030-18579-4_43.pdf)
-
-
-2. Shuai Xu, Jiuxin Cao, Xuelin Zhu, Yi Dong, and Bo Liu. [Community Discovery Based on Social Relations and Temporal-Spatial Topics in LBSNs](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf). PAKDD 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf)
-
-
-3. Yafang Wang, Zhaochuan Ren, Martin Theobald, Maximilian Dylla, and Gerard de Melo. [Summary Generation for Temporal Extractions](http://gerard.demelo.org/papers/temporal-summaries.pdf). DEXA 2016. [[Paper]](http://gerard.demelo.org/papers/temporal-summaries.pdf)
-
-
-4. Yafang Wang, Maximilian Dylla, Marc Spaniol, and Gerhard Weikum. [Coupling Label Propagation and Constraints for Temporal Fact Extraction](
-https://www.aclweb.org/anthology/P12-2046.pdf). ACL 2012. [[Paper]](
-https://www.aclweb.org/anthology/P12-2046.pdf)
-
-
-5. Yafang Wang, Bin Yang, Spyros Zoupanos, Marc Spaniol, and Gerhard Weikum. [Scalable Spatio-temporal Knowledge Harvesting](http://spyros.zoupanos.net/papers/www2011.pdf). WWW 2011. [[Paper]](http://spyros.zoupanos.net/papers/www2011.pdf)
-
-
-6. Yafang Wang, Mingjie Zhu, Lizhen Qu, Marc Spaniol, and Gerhard Weikum. [Timely YAGO: Harvesting, Querying, and Visualizing Temporal Knowledge from Wikipedia](
-https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf). ECBT 2010. [[Paper]](
-https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
-
-
-7. Qiaozhu Mei and Chengxiang Zhai. [Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf). ACM SIGKDD 2005. [[Paper]](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf)
-
-
-## Event_Centric_Temporal_Data_Mining
-1. Shih-Ting Lin, Nathanael Chambers, and Greg Durrett. [Conditional Generation of Temporally-ordered Event Sequences](https://arxiv.org/pdf/2012.15786.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2012.15786.pdf)
-
-
-2. Nathanael Chambers, Taylor Cassidy, Bill McDowell
-, and Steven Bethard. [Dense Event Ordering with a Multi-Pass Architecture](https://www.usna.edu/Users/cs/nchamber/pubs/tacl2014-caevo-chambers.pdf). TACL 2014. [[Paper]](https://www.usna.edu/Users/cs/nchamber/pubs/tacl2014-caevo-chambers.pdf)
-
-
-## Evolution_Analysis_and_Prediction_based_Event
-1. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, and Chengqi Zhang. [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://arxiv.org/pdf/2005.11650v1.pdf). KDD 2020. [[Paper]](https://arxiv.org/pdf/2005.11650v1.pdf)  
-
-
-2. Jiaqi Liu, Qin Zhang, Luoyi Fu, Xinbing Wang, and Songwu Lu. [Evolving Knowledge Graphs](http://www.cs.sjtu.edu.cn/~fu-ly/paper/EvolvingKG.pdf). Infocom 2019. [[Paper]](http://www.cs.sjtu.edu.cn/~fu-ly/paper/EvolvingKG.pdf)
-
-
-3. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, and Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Fusion 2016. [[Paper]](https://arxiv.org/pdf/1512.06900.pdf) -->
-
-
-
-<!-- [三大顶会看动态图表示学习](https://mp.weixin.qq.com/s/Dft_S-qqiXJJmVidEpTGeA) -->
-
-
-<!-- [图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ) -->
-
-
-
-<!-- ## Temporal_Commonsense_Understanding
-1. Ben Zhou, Qiang Ning, Daniel Khashabi, and Dan Roth. [Temporal Common Sense Acquisition with Minimal Supervision](https://www.aclweb.org/anthology/2020.acl-main.678.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.678.pdf)
-
-
-2. Ben Zhou, Daniel Khashabi, Qiang Ning, and Dan Roth. [“Going on a vacation” takes longer than “Going for a walk”: A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1332.pdf)
-
-
-
-## IR_for_Spatio_Temporal_Graphs 
-1. Zheyi Pan, Songyu Ke, Xiaodu Yang, et al. [AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graphs](http://panzheyi.cc/publication/pan2021autostg/paper.pdf). WWW 2021. [[Paper]](http://panzheyi.cc/publication/pan2021autostg/paper.pdf)
- -->
-
-
-## Thesis
-1. Yafang Wang. [Methods and Tools for Temporal Knowledge Harvesting](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26475/1/phd_thesis.pdf). Dissertation 2013. [[Paper]](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26475/1/phd_thesis.pdf)
-
-
-
-## Tools
-[Facebook时序工具库Kats||一个很好的快速制定baseline的库](https://mp.weixin.qq.com/s/xjdhoayIiBEPwQEaAcgHHQ). 
 
 
 
