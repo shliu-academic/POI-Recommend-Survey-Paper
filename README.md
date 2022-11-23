@@ -5,7 +5,7 @@ Table of Contents
 =================
 
   <!-- * [Task](#Task) -->
-  * [Surve](#Survey)
+  * [Survey](#Survey)
   * [Report](#Report)
   * [Dataset](#Dataset)
   * [Special Track on Top-tier Venues](#Special_Track_on_Top-tier_Venues)
@@ -34,12 +34,8 @@ Table of Contents
 
 
 
-[农业方面有哪些著名的期刊？](https://www.zhihu.com/question/40591146)
-
-
 ## Survey
-1. Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, and Min Yang. **Everything You wanted to Know about Smart Agriculture**. Arxiv 2022. [[Paper]](https://arxiv.org/abs/2201.04754v1) 
-
+1. Md. Ashraful Islam, Mir Mahathir Mohammad, Sarkar Snigdha Sarathi Das, Mohammed Eunus Ali. **A survey on deep learning based Point-of-Interest (POI) recommendations**. Neurocomputing 2022. [[Paper]](https://doi.org/10.1016/j.neucom.2021.05.114)
 
 2. 杨睿, 王应宽, 王宝济. **基于WoS文献计量学和知识图谱的农业机器人进展与趋势**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220106?st=search)
 
