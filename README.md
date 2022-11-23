@@ -1,8 +1,4 @@
-# Spatio-Temporal-Network-For-Next-POI-Recommendation
-
-
-Here, we are concentrate on collection of research papers involving temporal-aware topics, including temporal rule learning and resoning, temporal relation extraction, temporal text mining, deep spatial-temporal graph modeling, embedding learning of temporal knowledge graph, temporal knowledge graph curation and visulization, temporal commonsense understanding.   
-
+# Spatio Temporal Network For Next POI Recommendation
 
 Table of Contents
 =================
