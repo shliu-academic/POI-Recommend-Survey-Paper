@@ -58,8 +58,7 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 
 ### Modified_LSTM
 1.  P.Zhao, A.Luo, Y.Liu, F.Zhuang, J.Xu, Z.Li, V.S.Sheng, X.Zhou. **Where to go next: A spatio-temporal gated network for next poi recommendation**. Proceedings of the AAAI Conference on Artificial Intelligence 2020. [[paper]](https://ieeexplore.ieee.org/document/9133505)
-2.  Huimin Sun, Jiajie Xu, Kai Zheng, Pengpeng Zhao, Pingfu Chao, Xiaofang Zhou. **MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation**. (IJCAI-21). [[paper]](https://www.ijcai.org/proceedings/2021/0415.pdf)
-3.  Meihui Shi， Derong Shen，Yue Kou，Tiezheng Nie，Ge Yu. **Attentional Memory Network with Correlation-based Embedding for time-aware POI recommendation**. Knowledge-Based Systems 2021. [[paper]](https://doi.org/10.1016/j.knosys.2021.106747)
+2.  Meihui Shi， Derong Shen，Yue Kou，Tiezheng Nie，Ge Yu. **Attentional Memory Network with Correlation-based Embedding for time-aware POI recommendation**. Knowledge-Based Systems 2021. [[paper]](https://doi.org/10.1016/j.knosys.2021.106747)
 
 
 
