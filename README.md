@@ -16,7 +16,7 @@ Table of Contents
   * [Multi-module combination model](#Multi-module_Combination_Model)
   * [Other Models](#Other_Models)
 
-<!-- 在这个括号内的论文，是只考虑时间或地理因素的论文  >
+<!-- 在这个括号内的论文，是只考虑时间或地理因素的论文  -->
 ## Survey
 1. Md. Ashraful Islam, Mir Mahathir Mohammad, Sarkar Snigdha Sarathi Das, Mohammed Eunus Ali. **A survey on deep learning based Point-of-Interest (POI) recommendations**. Neurocomputing 2022. [[Paper]](https://doi.org/10.1016/j.neucom.2021.05.114)
 
