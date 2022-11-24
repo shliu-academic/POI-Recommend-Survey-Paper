@@ -90,6 +90,7 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 7. Yu Wang, An Liu, Junhua Fang, Jianfeng Qu, Lei Zhao. **ADQ-GNN: Next POI Recommendation by Fusing GNN and Area Division with Quadtree**. WISE 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_13) 
 8. Dongjing Wang, Xingliang Wang, Zhengzhe Xiang, Dongjin Yu, Shuiguang Deng & Guandong Xu . **Attentive sequential model based on graph neural network for next poi recommendation**. World Wide Web 2021. [[Paper]](https://link.springer.com/article/10.1007/s11280-021-00961-9) 
 9. Xin Wang; Xiao Liu; Li Li; Xiao Chen; Jin Liu; Hao Wu . **Time-aware User Modeling with Check-in Time Prediction for Next POI Recommendation**. ICWS 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9590322) 
+10. Sadaf Safavi and Mehrdad Jalali . **RecPOID: POI Recommendation with Friendship Aware and Deep CNN**.  Social Networks Analysis and Mining 2021. [[Paper]](https://doi.org/10.3390/fi13030079) 
 
 
 ## GAN_Models
@@ -100,6 +101,7 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 ## Encoder-Decoder_Models
 1. Lu Zhang, Zhu Sun, Jie Zhang, Yu Lei, Chen Li, Ziqing Wu, Horst Kloeden and Felix Klanner. **An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins**. (IJCAI-20). [[Paper]](http://184pc128.csie.ntnu.edu.tw/presentation/21-04-12/An%20Interactive%20Multi-Task%20Learning%20Framework%20for%20Next%20POI%20Recommendation%20with%20Uncertain%20Check-ins.pdf)
 2. Sajal Halder, Kwan Hui Lim, Jeffrey Chan & Xiuzhen Zhang . **Transformer-Based Multi-task Learning for Queuing Time Aware Next POI Recommendation**. PAKDD 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_41)
+3. Yepeng Li, Xuefeng Xian, Pengpeng Zhao, Yanchi Liu & Victor S. Sheng . **MGSAN: A Multi-granularity Self-attention Network for Next POI Recommendation**. WISE 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_14)
 
 
 ## Multi-module_Combination_Model
@@ -109,6 +111,9 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 4. Dongjin Yu, Wenbo Wanyan & Dongjing Wang. **Leveraging contextual influence and user preferences for point-of-interest recommendation**. Multimedia Tools and Applications 2021. [[Paper]](https://link.springer.com/article/10.1007/s11042-020-09746-0)
 5. Shaojie Dai, Yanwei Yu, Hao Fan & Junyu Dong . **Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie**. DASFAA 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_37)
 6. Huimin Sun, Jiajie Xu, Rui Zhou, Wei Chen, Lei Zhao & Chengfei Liu . **HOPE: a hybrid deep neural model for out-of-town next POI recommendation**. World Wide Web 2021. [[Paper]](https://link.springer.com/article/10.1007/s11280-021-00895-2)
+7. Yanyan Zhao; Jingyi Liu; Daren Zha; Kai Liu . **Hierarchical and Multi-Resolution Preference Modeling for Next POI Recommendation**. IJCNN 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9533980)
+8. Jiyong Zhang， Xin Liu， Xiaofei Zhou， Xiaowen Chu. **Leveraging graph neural networks for point-of-interest recommendations**. Neurocomputing 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2021.07.063)
+9. Giannis Christoforidis, Pavlos Kefalas, Apostolos N. Papadopoulos & Yannis Manolopoulos . **RELINE: point-of-interest recommendations using multiple network embeddings**. Knowledge and Information Systems 2021. [[Paper]](https://link.springer.com/article/10.1007/s10115-020-01541-5)
 
 
 
