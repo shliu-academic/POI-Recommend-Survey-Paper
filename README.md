@@ -88,6 +88,7 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 10. Mingjun Xin, Shicheng Chen, Chunjuan Zang. **A Graph Neural Network-Based Algorithm for Point-of-Interest Recommendation Using Social Relation and Time Series**. IJWSR 2021. [[Paper]](https://www.igi-global.com/article/a-graph-neural-network-based-algorithm-for-point-of-interest-recommendation-using-social-relation-and-time-series/289835)  <!-- 10与11相对应 -->
 11. Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendation Based on Social and Geographical Influence**. AICCC 2021. [[Paper]](https://doi.org/10.1145/3508259.3508278) 
 12. Jiakai Tang; Jiahui Jin; Zijia Miao; Binjie Zhang; Qi An; Jinghui Zhang. **Region-aware POI Recommendation with Semantic Spatial Graph**. CSCWD 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9437810) 
+13. Sayda Elmi; Karim Benouaret; Kian-Lee Tan. **Social and Spatio-Temporal Learning for Contextualized Next Points-of-Interest Prediction**. ICTAI 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9643230) 
 
 
 
@@ -110,6 +111,7 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 5. Yanyan Zhao; Jingyi Liu; Daren Zha; Kai Liu . **Hierarchical and Multi-Resolution Preference Modeling for Next POI Recommendation**. IJCNN 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9533980)
 6. Jiyong Zhang， Xin Liu， Xiaofei Zhou， Xiaowen Chu. **Leveraging graph neural networks for point-of-interest recommendations**. Neurocomputing 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2021.07.063)
 7. Giannis Christoforidis, Pavlos Kefalas, Apostolos N. Papadopoulos & Yannis Manolopoulos . **RELINE: point-of-interest recommendations using multiple network embeddings**. Knowledge and Information Systems 2021. [[Paper]](https://link.springer.com/article/10.1007/s10115-020-01541-5)
+8. Qiang Cui, Chenrui Zhang, Yafeng Zhang, Jinpeng Wang, Mingchen Cai. **ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation**. CIKM 2021. [[Paper]](https://doi.org/10.1145/3459637.3482189)
 
 
 
@@ -119,6 +121,7 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 3. Liang Chang, Wei Chen, Jianbo Huang, Chenzhong Bin & Wenkai Wang  . **Exploiting multi-attention network with contextual influence for point-of-interest recommendation**.Applied Intelligence (2021). [[paper]](https://link.springer.com/article/10.1007/s10489-020-01868-0)
 4. Jianxin Liao, Tongcun Liu, Hongzhi Yin, Tong Chen, Jingyu Wang & Yulong Wang . **An integrated model based on deep multimodal and rank learning for point-of-interest recommendation**.World Wide Web (2021). [[paper]](https://link.springer.com/article/10.1007/s11280-021-00865-8)
 5. Gehua Ma, Jingyuan Zhao, Huajin Tang. **Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation**.ICLR 2022. [[paper]](https://openreview.net/forum?id=9W2KnHqm_xN)
+6. Yingtao Luo, Qiang Liu, Zhaocheng Liu. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)
 
 
 
