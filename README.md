@@ -85,10 +85,13 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 7. Xin Wang; Xiao Liu; Li Li; Xiao Chen; Jin Liu; Hao Wu . **Time-aware User Modeling with Check-in Time Prediction for Next POI Recommendation**. ICWS 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9590322) 
 8. Sadaf Safavi and Mehrdad Jalali . **RecPOID: POI Recommendation with Friendship Aware and Deep CNN**.  Social Networks Analysis and Mining 2021. [[Paper]](https://doi.org/10.3390/fi13030079) 
 9. Junbeom Kim; Sihyun Jeong; Goeon Park; Kihoon Cha; Ilhyun Suh; Byungkook Oh. **DynaPosGNN: Dynamic-Positional GNN for Next POI Recommendation**. ICDMW 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9680032) 
-10. Mingjun Xin, Shicheng Chen, Chunjuan Zang. **A Graph Neural Network-Based Algorithm for Point-of-Interest Recommendation Using Social Relation and Time Series**. IJWSR 2021. [[Paper]](https://www.igi-global.com/article/a-graph-neural-network-based-algorithm-for-point-of-interest-recommendation-using-social-relation-and-time-series/289835)  <!-- 10与11相对应 -->
-11. Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendation Based on Social and Geographical Influence**. AICCC 2021. [[Paper]](https://doi.org/10.1145/3508259.3508278) 
-12. Jiakai Tang; Jiahui Jin; Zijia Miao; Binjie Zhang; Qi An; Jinghui Zhang. **Region-aware POI Recommendation with Semantic Spatial Graph**. CSCWD 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9437810) 
-13. Sayda Elmi; Karim Benouaret; Kian-Lee Tan. **Social and Spatio-Temporal Learning for Contextualized Next Points-of-Interest Prediction**. ICTAI 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9643230) 
+ <!-- 
+Mingjun Xin, Shicheng Chen, Chunjuan Zang. **A Graph Neural Network-Based Algorithm for Point-of-Interest Recommendation Using Social Relation and Time Series**. IJWSR 2021. [[Paper]](https://www.igi-global.com/article/a-graph-neural-network-based-algorithm-for-point-of-interest-recommendation-using-social-relation-and-time-series/289835) 
+Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendation Based on Social and Geographical Influence**. AICCC 2021. [[Paper]](https://doi.org/10.1145/3508259.3508278)
+ -->
+11. Jiakai Tang; Jiahui Jin; Zijia Miao; Binjie Zhang; Qi An; Jinghui Zhang. **Region-aware POI Recommendation with Semantic Spatial Graph**. CSCWD 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9437810) 
+12. Sayda Elmi; Karim Benouaret; Kian-Lee Tan. **Social and Spatio-Temporal Learning for Contextualized Next Points-of-Interest Prediction**. ICTAI 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9643230) 
+13. Wei Chen,....... **Building and exploiting spatial–temporal knowledge graph for next POI recommendation**. Knowledge-Based Systems 2022. [[Paper]](https://doi.org/10.1016/j.knosys.2022.109951) 
 
 
 
@@ -101,6 +104,11 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 1. Lu Zhang, Zhu Sun, Jie Zhang, Yu Lei, Chen Li, Ziqing Wu, Horst Kloeden and Felix Klanner. **An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins**. (IJCAI-20). [[Paper]](http://184pc128.csie.ntnu.edu.tw/presentation/21-04-12/An%20Interactive%20Multi-Task%20Learning%20Framework%20for%20Next%20POI%20Recommendation%20with%20Uncertain%20Check-ins.pdf)
 2. Sajal Halder, Kwan Hui Lim, Jeffrey Chan & Xiuzhen Zhang . **Transformer-Based Multi-task Learning for Queuing Time Aware Next POI Recommendation**. PAKDD 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_41)
 3. Yepeng Li, Xuefeng Xian, Pengpeng Zhao, Yanchi Liu & Victor S. Sheng . **MGSAN: A Multi-granularity Self-attention Network for Next POI Recommendation**. WISE 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_14)
+4. Song Yang, Jiamou Liu, Kaiqi Zhao. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
+5. Sajal Halder, Kwan Hui Lim, Jeffrey Chan & Xiuzhen Zhang . **POI recommendation with queuing time and user interest awareness**. Data Mining and Knowledge Discovery 2022. [[Paper]](https://link.springer.com/article/10.1007/s10618-022-00865-w)
+6. Xinfeng Wang, Fumiyo Fukumoto, Jiyi Li, Dongjin Yu & Xiaoxiao Sun . **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
+
+
 
 
 ## Multi-module_Combination_Model
@@ -112,6 +120,7 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 6. Jiyong Zhang， Xin Liu， Xiaofei Zhou， Xiaowen Chu. **Leveraging graph neural networks for point-of-interest recommendations**. Neurocomputing 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2021.07.063)
 7. Giannis Christoforidis, Pavlos Kefalas, Apostolos N. Papadopoulos & Yannis Manolopoulos . **RELINE: point-of-interest recommendations using multiple network embeddings**. Knowledge and Information Systems 2021. [[Paper]](https://link.springer.com/article/10.1007/s10115-020-01541-5)
 8. Qiang Cui, Chenrui Zhang, Yafeng Zhang, Jinpeng Wang, Mingchen Cai. **ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation**. CIKM 2021. [[Paper]](https://doi.org/10.1145/3459637.3482189)
+9. Zhaobo Wang. **Graph-Enhanced Spatial-Temporal Network for Next POI Recommendation**. ACM Transactions on Knowledge Discovery from Data 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3513092)
 
 
 
