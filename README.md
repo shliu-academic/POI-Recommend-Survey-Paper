@@ -13,7 +13,7 @@ Table of Contents
   * [Graph Embedding Models](#Graph_Embedding_Models)
   * [GAN Models](#GAN_Models)
   * [Encoder-Decoder Models](#Encoder-Decoder_Models)
-  * [Multi-module combination model](#Multi-module_Combination_Model)
+  * [Hybrid Model](#Hybrid_Model)
   * [Other Models](#Other_Models)
 
 <!-- 在这个括号内的论文，是只考虑时间或地理因素的论文  -->
@@ -126,7 +126,7 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 
 
 
-## Multi-module_Combination_Model
+## Hybrid_Model
 1. Yue Cui, Hao Sun, Yan Zhao, Hongzhi Yin, Kai Zheng. **Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach**. ACM Transactions on Information Systems 2021. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3460198)
 2. Hongyu Zang, Dongcheng Han, Xin Li, Zhifeng Wan, Mingzhong Wang. **CHA: Categorical Hierarchy-based Attention for Next POI Recommendation**. ACM Transactions on Information Systems 2021. [[Paper]](https://doi.org/10.1145/3464300)
 3. Ling Chen, Yuankai Ying, Dandan Lyu, Shanshan Yu & Gencai Chen . **A multi-task embedding based personalized POI recommendation method**. CCF Transactions on Pervasive Computing and Interaction 2021. [[Paper]](https://link.springer.com/article/10.1007/s42486-021-00069-z)
