@@ -21,7 +21,8 @@ Table of Contents
     * [GAN Models](#GAN_Models)
     * [Encoder-Decoder Models](#Encoder-Decoder_Models)
     * [Hybrid Model](#Hybrid_Model)
-  * 
+  * [Capture The Time Factor Component](#)
+  * [Capture The Geographic Factor Component](#)
 
 <!-- 在这个括号内的论文，是只考虑时间或地理因素的论文  -->
 ## Survey
