@@ -13,14 +13,14 @@ Table of Contents
   <!-- * [Task](#Task) -->
   * [Survey](#Survey)
   * [Dataset](#Dataset)
-  * [Models]
-    * [RNN Based Models](#RNN_Based_Models)
-    * [LSTM Models](#LSTM_Models)
-    * [GRU Models](#GRU_Models)
-    * [Graph Embedding Models](#Graph_Embedding_Models)
-    * [GAN Models](#GAN_Models)
-    * [Encoder-Decoder Models](#Encoder-Decoder_Models)
-    * [Hybrid Model](#Hybrid_Model)
+  * [Models](#Models_)
+   * [RNN Based Models](#RNN_Based_Models)
+   * [LSTM Models](#LSTM_Models)
+   * [GRU Models](#GRU_Models)
+   * [Graph Embedding Models](#Graph_Embedding_Models)
+   * [GAN Models](#GAN_Models)
+   * [Encoder-Decoder Models](#Encoder-Decoder_Models)
+   * [Hybrid Model](#Hybrid_Model)
 
 <!-- 在这个括号内的论文，是只考虑时间或地理因素的论文  -->
 ## Survey
@@ -36,8 +36,10 @@ Table of Contents
 5. Yelp Dataset. [[Download]](https://www.yelp.com/dataset/)
 
 
+## Models_
 
-## RNN_Based_Models
+
+### RNN_Based_Models
 1. Dingqi Yang, Benjamin Fankhauser, Paolo Rosso, Philippe Cudre-Mauroux. **Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!**. IJCAI 2020. [[paper]](https://www.ijcai.org/proceedings/2020/302)
 2. Kangzhi Zhao, Yong Zhang, Hongzhi Yin, Jin Wang, Kai Zheng, Xiaofang Zhou, Chunxiao Xing. **Discovering Subsequence Patterns for Next POI Recommendation**. IJCAI 2020. [[paper]](https://doi.org/10.24963/ijcai.2020/445)
 3. Zhenhua Huang, Xiaolong Lin, Hai Liu, Bo Zhang, Yunwen Chen, Yong Tang. **Deep Representation Learning for Location-Based Recommendation**. IEEE Transactions on Computational Social Systems 2020. [[paper]](https://ieeexplore.ieee.org/document/9024121)
@@ -46,8 +48,8 @@ Table of Contents
 
 
 
-## LSTM_Models
-### Basic_LSTM
+### LSTM_Models
+#### Basic_LSTM
 1. Yuxia Wu, Ke Li, Guoshuai Zhao, Xueming Qian. **Personalized Long- and Short-term Preference Learning for Next POI Recommendation**. IEEE Transactions on Knowledge and Data Engineering 2020. [[paper]](https://ieeexplore.ieee.org/document/9117156)
 2. Ke Sun, Tieyun Qian, Tong Chen, Yile Liang, Quoc Viet Hung Nguyen, Hongzhi Yin. **Where to go next: modeling long-and short-term user preferences for point-of-interest recommendation**. Proceedings of the AAAI Conference on Artificial Intelligence 2020. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5353)
 3. Fuqiang Yu, Lizhen Cui, Wei Guo, Xudong Lu, Qingzhong Li, Hua Lu. **A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data**. Proceedings of The Web Conference 2020. [[paper]](https://doi.org/10.1145/3366423.3380202)
@@ -62,32 +64,32 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
  
 
 
-### Bi_LSTM
+#### Bi_LSTM
 1. Tongcun Liu, Jianxin Liao, Zhigen Wu, Yulong Wang, Jingyu Wang. **Exploiting geographical-temporal awareness attention for next point-of-interest recommendation**. Neurocomputing 2020. [[paper]](https://doi.org/10.1016/j.neucom.2019.12.122)
 2. Chi Harold Liu, Yu Wang, Chengzhe Piao, Zipeng Dai, Ye Yuan, Guoren Wang, Dapeng Wu. **Time-aware location prediction by convolutional area-of-interest modeling and memory-augmented attentive lstm**. IEEE Transactions on Knowledge and Data Engineering 2020. [[paper]](https://ieeexplore.ieee.org/document/9128016)
 3. 
 
 
-### Modified_LSTM
+#### Modified_LSTM
 1.  P.Zhao, A.Luo, Y.Liu, F.Zhuang, J.Xu, Z.Li, V.S.Sheng, X.Zhou. **Where to go next: A spatio-temporal gated network for next poi recommendation**. Proceedings of the AAAI Conference on Artificial Intelligence 2020. [[paper]](https://ieeexplore.ieee.org/document/9133505)
 2.  Meihui Shi， Derong Shen，Yue Kou，Tiezheng Nie，Ge Yu. **Attentional Memory Network with Correlation-based Embedding for time-aware POI recommendation**. Knowledge-Based Systems 2021. [[paper]](https://doi.org/10.1016/j.knosys.2021.106747)
 3.  Tipajin Thaipisutikul; Ying-Nong Chen. **A Context-Aware POI Recommendation**. TENCON 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9707376)
 
 
 
-### Self_Attention
+#### Self_Attention
 1. Defu Lian, Yongji Wu, Yong Ge, Xing Xie, Enhong Chen. **Geography-Aware Sequential Location Recommendation**. KDD 2020. [[paper]](https://doi.org/10.1145/3394486.3403252)
 2. Qianyu Guo, Jianzhong Qi. **Sanst: a self-attentive network for next point-of-interest recommendation**. arXiv preprint arXiv:2001.10379 (2020). [[paper]](https://arxiv.org/abs/2001.10379)
 
 
 
-## GRU_Models
+### GRU_Models
 1. Yuwen Liu,Aixiang Pei,Fan Wang,Yihong Yang,Xuyun Zhang,Hao Wang,Hongning Dai,Lianyong Qi,Rui Ma. **An attention-based category-aware GRU model for the next POI recommendation**. International Journal of INTELLIGENT SYSTEMS 2021. [[paper]]( https://doi.org/10.1002/int.22412)
 2. Jihua YE, Siyu YANG, Jiali ZUO, Mingwen WANG. **Research on POI Recommendation Model Based on Spatio-temporal Context Information**. Journal of Electronics & Information Technology 2021. [[paper]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT200368?viewType=HTML)
 3. Jinfeng Fang， Xiangfu Meng. **URPI-GRU: An approach of next POI recommendation based on user relationship and preference information**. Knowledge-Based Systems 2022. [[paper]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT200368?viewType=HTML)
 4. Xixi Li, Ruimin Hu, Zheng Wang. **Next-point-of-interest recommendation based on joint mining of regularity and randomness**. Knowledge-Based Systems 2022. [[paper]](https://doi.org/10.1016/j.knosys.2022.109848)
 
-## Graph_Embedding_Models
+### Graph_Embedding_Models
 1. Xi Xiong, Fei Xiong, Jun Zhao, Shaojie Qiao, Yuanyuan Lie, Ying Zhao. **Dynamic discovery of favorite locations in spatio-temporal social networks**. Information Processing and Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
 2. Yaqiong Qiao, Xiangyang Luo, Chenliang Li, Hechan Tian, Jiangtao Ma. **Heterogeneous graph-based joint representation learning for users and POIs in location-based social network**. Information Processing & Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2019.102151) 
 3. Meng Chen, Yan Zhao, Yang Liu, Xiaohui Yu, Kai Zheng. **Modeling spatial trajectories with attribute representation learning**. IEEE Transactions on Knowledge and Data Engineering 2020. [[Paper]](https://ieeexplore.ieee.org/document/9112685) 
@@ -113,12 +115,12 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 
 
 
-## GAN_Models
+### GAN_Models
 1. Qiang Gao, Fengli Zhang, Fuming Yao, Ailing Li, Lin Mei, Fan Zhou. **Adversarial Mobility Learning for Human Trajectory Classification**. IEEE Access 2020. [[Paper]](https://ieeexplore.ieee.org/document/8967063)
 
 
 
-## Encoder-Decoder_Models
+### Encoder-Decoder_Models
 1. Lu Zhang, Zhu Sun, Jie Zhang, Yu Lei, Chen Li, Ziqing Wu, Horst Kloeden and Felix Klanner. **An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins**. (IJCAI-20). [[Paper]](http://184pc128.csie.ntnu.edu.tw/presentation/21-04-12/An%20Interactive%20Multi-Task%20Learning%20Framework%20for%20Next%20POI%20Recommendation%20with%20Uncertain%20Check-ins.pdf)
 2. Sajal Halder, Kwan Hui Lim, Jeffrey Chan & Xiuzhen Zhang . **Transformer-Based Multi-task Learning for Queuing Time Aware Next POI Recommendation**. PAKDD 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_41)
 3. Yepeng Li, Xuefeng Xian, Pengpeng Zhao, Yanchi Liu & Victor S. Sheng . **MGSAN: A Multi-granularity Self-attention Network for Next POI Recommendation**. WISE 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_14)
@@ -132,7 +134,7 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 
 
 
-## Hybrid_Model
+### Hybrid_Model
 1. Yanan Zhang, Guanfeng Liu, An Liu, Yifan Zhang, Zhixu Li, Xiangliang Zhang, Qing Li. **Personalized Geographical Influence Modeling for POI Recommendation**.  IEEE Intelligent Systems 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9102414)
 2. Meng Chen, Yixuan Zuo, Xiaoyi Jia, Yang Liu, Xiaohui Yu, Kai Zheng. **Cem: a convolutional embedding model for predicting next locations**. IEEE Transactions on Intelligent Transportation Systems 2020. [[Paper]](https://ieeexplore.ieee.org/document/9064808)
 3. Yue Cui, Hao Sun, Yan Zhao, Hongzhi Yin, Kai Zheng. **Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach**. ACM Transactions on Information Systems 2021. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3460198)
