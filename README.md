@@ -14,7 +14,6 @@ Table of Contents
   * [GAN Models](#GAN_Models)
   * [Encoder-Decoder Models](#Encoder-Decoder_Models)
   * [Hybrid Model](#Hybrid_Model)
-  * [Other Models](#Other_Models)
 
 <!-- 在这个括号内的论文，是只考虑时间或地理因素的论文  -->
 ## Survey
