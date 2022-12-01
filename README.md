@@ -125,15 +125,14 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 
 
 ### Encoder-Decoder_Models
-1. Lu Zhang, Zhu Sun, Jie Zhang, Yu Lei, Chen Li, Ziqing Wu, Horst Kloeden and Felix Klanner. **An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins**. (IJCAI-20). [[Paper]](http://184pc128.csie.ntnu.edu.tw/presentation/21-04-12/An%20Interactive%20Multi-Task%20Learning%20Framework%20for%20Next%20POI%20Recommendation%20with%20Uncertain%20Check-ins.pdf)
-2. Sajal Halder, Kwan Hui Lim, Jeffrey Chan & Xiuzhen Zhang . **Transformer-Based Multi-task Learning for Queuing Time Aware Next POI Recommendation**. PAKDD 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_41)
-3. Yepeng Li, Xuefeng Xian, Pengpeng Zhao, Yanchi Liu & Victor S. Sheng . **MGSAN: A Multi-granularity Self-attention Network for Next POI Recommendation**. WISE 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_14)
-4. Song Yang, Jiamou Liu, Kaiqi Zhao. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
-5. Sajal Halder, Kwan Hui Lim, Jeffrey Chan & Xiuzhen Zhang . **POI recommendation with queuing time and user interest awareness**. Data Mining and Knowledge Discovery 2022. [[Paper]](https://link.springer.com/article/10.1007/s10618-022-00865-w)
-6. Xinfeng Wang, Fumiyo Fukumoto, Jiyi Li, Dongjin Yu & Xiaoxiao Sun . **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
-7. En Wang; Yiheng Jiang; Yuanbo Xu; Liang Wang; Yongjian Yang. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
-8. Jiayi Xie, Zhenzhong Chen. **Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
-9. Chaoqun Wang; Yuhan Dong; Kai Zhang. **Long- and Short-term Preference Learning with Enhanced Spatial Transformer for Next POI Recommendation**.DSIT 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9943896)
+1. Sajal Halder, Kwan Hui Lim, Jeffrey Chan & Xiuzhen Zhang . **Transformer-Based Multi-task Learning for Queuing Time Aware Next POI Recommendation**. PAKDD 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_41)
+2. Yepeng Li, Xuefeng Xian, Pengpeng Zhao, Yanchi Liu & Victor S. Sheng . **MGSAN: A Multi-granularity Self-attention Network for Next POI Recommendation**. WISE 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_14)
+3. Song Yang, Jiamou Liu, Kaiqi Zhao. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
+4. Sajal Halder, Kwan Hui Lim, Jeffrey Chan & Xiuzhen Zhang . **POI recommendation with queuing time and user interest awareness**. Data Mining and Knowledge Discovery 2022. [[Paper]](https://link.springer.com/article/10.1007/s10618-022-00865-w)
+5. Xinfeng Wang, Fumiyo Fukumoto, Jiyi Li, Dongjin Yu & Xiaoxiao Sun . **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
+6. En Wang; Yiheng Jiang; Yuanbo Xu; Liang Wang; Yongjian Yang. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
+7. Jiayi Xie, Zhenzhong Chen. **Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
+8. Chaoqun Wang; Yuhan Dong; Kai Zhang. **Long- and Short-term Preference Learning with Enhanced Spatial Transformer for Next POI Recommendation**.DSIT 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9943896)
 
 
 
@@ -163,6 +162,8 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 22. Rui Song,Tong Li,Xin Dong,Zhiming Ding. **An effective points of interest recommendation approach based on embedded meta-path of spatiotemporal data**.Expert Systems 2022. [[paper]](https://doi.org/10.1111/exsy.13145)
 
 
+### Consider_Only_Geography
+1. Shanshan Feng, Lucas Vinh Tran, Gao Cong, Lisi Chen, Jing Li, Fan Li. **HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation**.SIGIR 2022. [[paper]](https://doi.org/10.1145/3397271.3401049)
 
 
 updated in 2022.11.14
