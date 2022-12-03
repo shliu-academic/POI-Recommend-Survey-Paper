@@ -22,7 +22,7 @@ Table of Contents
     * [GAN Models](#GAN_Models)
     * [Encoder-Decoder Models](#Encoder-Decoder_Models)
     * [Hybrid Model](#Hybrid_Model)
-  * [Capture The Time Factor Component](#)
+  * [Capture The Time Factor Component](#Consider_Only_Time)
   * [Capture The Geographic Factor Component](#Consider_Only_Geography)
   * [Others](#Others_)
 
@@ -170,9 +170,9 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 1. Shanshan Feng, Lucas Vinh Tran, Gao Cong, Lisi Chen, Jing Li, Fan Li. **HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation**.SIGIR 2022. [[paper]](https://doi.org/10.1145/3397271.3401049)
 2. Buru Chang. **Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation**.CIKM 2022. [[paper]](https://doi.org/10.1145/3340531.3411905)
 
-### Consider_Only_Geography
+### Consider_Only_Time
 
-### Other_
+### Others_
 1. Peng Han. **Contextualized Point-of-Interest Recommendation**.IJCAI 2020. [[paper]](https://www.ijcai.org/proceedings/2020/0344.pdf)
 
 
