@@ -23,7 +23,8 @@ Table of Contents
     * [Encoder-Decoder Models](#Encoder-Decoder_Models)
     * [Hybrid Model](#Hybrid_Model)
   * [Capture The Time Factor Component](#)
-  * [Capture The Geographic Factor Component](#)
+  * [Capture The Geographic Factor Component](#Consider_Only_Geography)
+  * [Others](#Others_)
 
 <!-- 在这个括号内的论文，是只考虑时间或地理因素的论文  -->
 ## Survey
@@ -95,6 +96,9 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 
 ### Graph_Embedding_Models
 1. Xi Xiong, Fei Xiong, Jun Zhao, Shaojie Qiao, Yuanyuan Lie, Ying Zhao. **Dynamic discovery of favorite locations in spatio-temporal social networks**. Information Processing and Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
+2. Nicholas Lim. **STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation**. CIKM 2020. [[Paper]](https://doi.org/10.1145/3340531.3411876)
+2. Zixuan Yuan. **Spatio-Temporal Dual Graph Attention Network for Query-POI Matching**. SIGIR 2020. [[Paper]](https://doi.org/10.1145/3397271.3401159) 
+2. Haoyu Han. **STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation**. ICDM 2020. [[Paper]](https://ieeexplore.ieee.org/document/9338281) 
 2. Yaqiong Qiao, Xiangyang Luo, Chenliang Li, Hechan Tian, Jiangtao Ma. **Heterogeneous graph-based joint representation learning for users and POIs in location-based social network**. Information Processing & Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2019.102151) 
 3. Meng Chen, Yan Zhao, Yang Liu, Xiaohui Yu, Kai Zheng. **Modeling spatial trajectories with attribute representation learning**. IEEE Transactions on Knowledge and Data Engineering 2020. [[Paper]](https://ieeexplore.ieee.org/document/9112685) 
 4. Miao Li; Wenguang Zheng; Yingyuan Xiao; Ke Zhu; Wei Huang. **Exploring Temporal and Spatial Features for Next POI Recommendation in LBSNs**.  IEEE Access 2021. [[Paper]](https://ieeexplore.ieee.org/document/9360823) 
@@ -164,6 +168,13 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 
 ### Consider_Only_Geography
 1. Shanshan Feng, Lucas Vinh Tran, Gao Cong, Lisi Chen, Jing Li, Fan Li. **HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation**.SIGIR 2022. [[paper]](https://doi.org/10.1145/3397271.3401049)
+2. Buru Chang. **Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation**.CIKM 2022. [[paper]](https://doi.org/10.1145/3340531.3411905)
+
+### Consider_Only_Geography
+
+### Other_
+1. Peng Han. **Contextualized Point-of-Interest Recommendation**.IJCAI 2020. [[paper]](https://www.ijcai.org/proceedings/2020/0344.pdf)
+
 
 
 updated in 2022.11.14
