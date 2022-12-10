@@ -190,5 +190,9 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 2. https://dl.acm.org/doi/10.1145/3485631
 3. https://dl.acm.org/doi/10.1145/3477495.3531905
 4. https://dl.acm.org/doi/10.1145/3477495.3531801
+5. https://dl.acm.org/doi/10.1145/3523227.3551481
+6. https://www.ijcai.org/proceedings/2022/521
+7. https://link.springer.com/chapter/10.1007/978-3-030-99736-6_12
+8. https://dl.acm.org/doi/10.1145/3511808.3557642
 
 updated in 2022.11.14
