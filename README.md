@@ -185,5 +185,10 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 5. Zeyu Li. **You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation**. 2021. [[paper]](https://doi.org/10.1145/3459637.3481962)
 6. Mingwei Zhang. **SNPR: A Serendipity-Oriented Next POI Recommendation Model**. 2021. [[paper]](https://doi.org/10.1145/3459637.3482394)
 
+2022
+1. https://dl.acm.org/doi/pdf/10.1145/3477495.3531905
+2. https://dl.acm.org/doi/10.1145/3485631
+3. https://dl.acm.org/doi/10.1145/3477495.3531905
+4. https://dl.acm.org/doi/10.1145/3477495.3531801
 
 updated in 2022.11.14
