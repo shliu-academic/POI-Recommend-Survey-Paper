@@ -170,6 +170,7 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 ### Consider_Only_Geography
 1. Shanshan Feng, Lucas Vinh Tran, Gao Cong, Lisi Chen, Jing Li, Fan Li. **HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation**.SIGIR 2022. [[paper]](https://doi.org/10.1145/3397271.3401049)
 2. Buru Chang. **Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation**.CIKM 2022. [[paper]](https://doi.org/10.1145/3340531.3411905)
+3. Yile Chen. **Points-of-Interest Relationship Inference with Spatial-enriched Graph Neural Networks**.Proceedings of the VLDB Endowment 2022. [[paper]](http://www.vldb.org/pvldb/vol15/p504-chen.pdf)
 
 ### Consider_Only_Time
 
