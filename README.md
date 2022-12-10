@@ -113,13 +113,14 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
  -->
 10. Jiakai Tang; Jiahui Jin; Zijia Miao; Binjie Zhang; Qi An; Jinghui Zhang. **Region-aware POI Recommendation with Semantic Spatial Graph**. CSCWD 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9437810) 
 11. Sayda Elmi; Karim Benouaret; Kian-Lee Tan. **Social and Spatio-Temporal Learning for Contextualized Next Points-of-Interest Prediction**. ICTAI 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9643230) 
-12. Wei Chen,....... **Building and exploiting spatial–temporal knowledge graph for next POI recommendation**. Knowledge-Based Systems 2022. [[Paper]](https://doi.org/10.1016/j.knosys.2022.109951) 
-13. Zhaobo Wang, Yanmin Zhu, Haobing Liu, Chunyang Wang. **Learning Graph-based Disentangled Representations for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://doi.org/10.1145/3477495.3532012) 
-14. Quan Li; Xinhua Xu; Xinghong Liu; Qi Chen. **An Attention-Based Spatiotemporal GGNN for Next POI Recommendation**. IEEE Access 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9727181) 
-15. Xiaolin Wang, Guohao Sun, Xiu Fang, Jian Yang and Shoujin Wang. **Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation**. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0490.pdf) 
-16. Dongjin Yu, Ting Yu, Dongjing Wang & Yi Shen . **NGPR: A comprehensive personalized point-of-interest recommendation method based on heterogeneous graphs**. Multimedia Tools and Applications 2022. [[Paper]](https://link.springer.com/article/10.1007/s11042-022-13088-4) 
-17. Xuan Rao...... **Graph-Flashback Network for Next Location Recommendation**. KDD 2022. [[Paper]](https://doi.org/10.1145/3534678.3539383) 
-18. Yuwen Liu; Huiping Wu; Khosro Rezaee; ...... **Interaction-Enhanced and Time-Aware Graph Convolutional Network for Successive Point-of-Interest Recommendation in Traveling Enterprises**.  IEEE Transactions on Industrial Informatics 2022. [[Paper]](https://ieeexplore.ieee.org/document/9863644) 
+12. Zixuan Yuan. **Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching**. WWW 2021. [[Paper]](https://doi.org/10.1145/3442381.3449810)
+13. Wei Chen,....... **Building and exploiting spatial–temporal knowledge graph for next POI recommendation**. Knowledge-Based Systems 2022. [[Paper]](https://doi.org/10.1016/j.knosys.2022.109951) 
+14. Zhaobo Wang, Yanmin Zhu, Haobing Liu, Chunyang Wang. **Learning Graph-based Disentangled Representations for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://doi.org/10.1145/3477495.3532012) 
+15. Quan Li; Xinhua Xu; Xinghong Liu; Qi Chen. **An Attention-Based Spatiotemporal GGNN for Next POI Recommendation**. IEEE Access 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9727181) 
+16. Xiaolin Wang, Guohao Sun, Xiu Fang, Jian Yang and Shoujin Wang. **Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation**. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0490.pdf) 
+17. Dongjin Yu, Ting Yu, Dongjing Wang & Yi Shen . **NGPR: A comprehensive personalized point-of-interest recommendation method based on heterogeneous graphs**. Multimedia Tools and Applications 2022. [[Paper]](https://link.springer.com/article/10.1007/s11042-022-13088-4) 
+18. Xuan Rao...... **Graph-Flashback Network for Next Location Recommendation**. KDD 2022. [[Paper]](https://doi.org/10.1145/3534678.3539383) 
+19. Yuwen Liu; Huiping Wu; Khosro Rezaee; ...... **Interaction-Enhanced and Time-Aware Graph Convolutional Network for Successive Point-of-Interest Recommendation in Traveling Enterprises**.  IEEE Transactions on Industrial Informatics 2022. [[Paper]](https://ieeexplore.ieee.org/document/9863644) 
 
 
 
