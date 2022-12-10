@@ -177,6 +177,13 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 ### Others_
 1. Peng Han. **Contextualized Point-of-Interest Recommendation**.IJCAI 2020. [[paper]](https://www.ijcai.org/proceedings/2020/0344.pdf)
 
+2021:
+1. Huimin Sun. **MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation**.Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence 2021. [[paper]](https://www.ijcai.org/proceedings/2021/415)
+2. Miao Fan. **Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps**.KDD 2021. [[paper]](https://doi.org/10.1145/3447548.3467058)
+3. Yang Li. **Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation**. Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation 2021. [[paper]](https://www.ijcai.org/proceedings/2021/206)
+4. Xiao Liu. **Geo-BERT Pre-training Model for Query Rewriting in POI Search**. 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.190/)
+5. Zeyu Li. **You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation**. 2021. [[paper]](https://doi.org/10.1145/3459637.3481962)
+6. Mingwei Zhang. **SNPR: A Serendipity-Oriented Next POI Recommendation Model**. 2021. [[paper]](https://doi.org/10.1145/3459637.3482394)
 
 
 updated in 2022.11.14
