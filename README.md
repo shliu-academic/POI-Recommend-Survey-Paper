@@ -177,6 +177,11 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 ### Others_
 1. Peng Han. **Contextualized Point-of-Interest Recommendation**.IJCAI 2020. [[paper]](https://www.ijcai.org/proceedings/2020/0344.pdf)
 
+
+2020:
+https://people.eng.unimelb.edu.au/jianzhongq/papers/IJCNN2020_TimeSAN.pdf
+
+
 2021:
 1. Huimin Sun. **MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation**.Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence 2021. [[paper]](https://www.ijcai.org/proceedings/2021/415)
 2. Miao Fan. **Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps**.KDD 2021. [[paper]](https://doi.org/10.1145/3447548.3467058)
