@@ -179,7 +179,8 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 
 
 2020:
-https://people.eng.unimelb.edu.au/jianzhongq/papers/IJCNN2020_TimeSAN.pdf
+1. https://people.eng.unimelb.edu.au/jianzhongq/papers/IJCNN2020_TimeSAN.pdf
+2. http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2019071289
 
 
 2021:
