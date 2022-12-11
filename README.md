@@ -184,6 +184,12 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 4. Xiao Liu. **Geo-BERT Pre-training Model for Query Rewriting in POI Search**. 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.190/)
 5. Zeyu Li. **You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation**. 2021. [[paper]](https://doi.org/10.1145/3459637.3481962)
 6. Mingwei Zhang. **SNPR: A Serendipity-Oriented Next POI Recommendation Model**. 2021. [[paper]](https://doi.org/10.1145/3459637.3482394)
+7. https://doi.org/10.1145/3485631
+8. https://link.springer.com/article/10.1007/s10489-021-02677-9
+9. https://ieeexplore.ieee.org/document/9474891
+10. https://www.semanticscholar.org/paper/Location-Prediction-via-Bi-direction-Speculation-Li-Hu/398e15e41cbe123432ed7281fa30be792e25d0f3
+11. https://link.springer.com/article/10.1007/s10707-021-00450-1
+12. https://dl.acm.org/doi/10.1145/3462675
 
 2022
 1. https://dl.acm.org/doi/pdf/10.1145/3477495.3531905
@@ -194,5 +200,8 @@ Chang Su, Bin Gong, Xianzhong Xie. **Personalized Point-of-Interest Recommendati
 6. https://www.ijcai.org/proceedings/2022/521
 7. https://link.springer.com/chapter/10.1007/978-3-030-99736-6_12
 8. https://dl.acm.org/doi/10.1145/3511808.3557642
+9. https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-022-02137-z
+10. https://pdfs.semanticscholar.org/0c48/71a2dce1a552d9901b88ed0f6fa8440dc702.pdf?_ga=2.213279639.244232656.1670720047-762964800.1657960339
+11. https://dl.acm.org/doi/10.1145/3437963.3441797
 
 updated in 2022.11.14
