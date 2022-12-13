@@ -2,12 +2,7 @@
 paper：基于深度学习时空网络的poi推荐。同时考虑时间因素和空间因素的深度学习时空网络模型的的论文进行调研。主要调研近三年：2020年到2022年，以下是粗略调研一共76篇论文。
 google中检索论文标题、摘要、关键字中带有时空和poi的论文
 
-<!-- 初步想法：
-1. 结合时空数据集特点和序列推荐数据特点总结时空网络序列推荐下一个poi的挑战
-2. 按照模型范式来对深度学习邻域的时空网络在序列推荐系统中预测下一个poi模型进行分类；
-3. 针对调研的paper，总结论文的模型如何利用时间信息的方法
-4. 针对调研的paper，总结论文的模型如何利用地理信息的方法
--->
+
 Table of Contents
 =================
 
@@ -93,6 +88,10 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 2. Jihua YE, Siyu YANG, Jiali ZUO, Mingwen WANG. **Research on POI Recommendation Model Based on Spatio-temporal Context Information**. Journal of Electronics & Information Technology 2021. [[paper]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT200368?viewType=HTML)
 3. Jinfeng Fang， Xiangfu Meng. **URPI-GRU: An approach of next POI recommendation based on user relationship and preference information**. Knowledge-Based Systems 2022. [[paper]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT200368?viewType=HTML)
 4. Xixi Li, Ruimin Hu, Zheng Wang. **Next-point-of-interest recommendation based on joint mining of regularity and randomness**. Knowledge-Based Systems 2022. [[paper]](https://doi.org/10.1016/j.knosys.2022.109848)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### Graph_Embedding_Models
 1. Xi Xiong, Fei Xiong, Jun Zhao, Shaojie Qiao, Yuanyuan Lie, Ying Zhao. **Dynamic discovery of favorite locations in spatio-temporal social networks**. Information Processing and Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
