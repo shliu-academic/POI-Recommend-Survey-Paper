@@ -54,7 +54,7 @@ Table of Contents
 4. Qing Guo, Zhu Sun, Jie Zhang, Yin-Leng Theng. **An attentional recurrent neural network for personalized next location recommendation**. Proceedings of the AAAI
 Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aaai.v34i01.5337)
 5. Lu Zhang, Zhu Sun, Jie Zhang, Yu Lei, Chen Li, Ziqing Wu, Horst Kloeden and Felix Klanner. **An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins**. IJCAI 2020. [[paper]](http://184pc128.csie.ntnu.edu.tw/presentation/21-04-12/An%20Interactive%20Multi-Task%20Learning%20Framework%20for%20Next%20POI%20Recommendation%20with%20Uncertain%20Check-ins.pdf)
-6. Honglian Wang, Peiyan Li, Yang Liu, Junming Shao. **Towards real-time demand-aware sequential POI recommendation**. Information Sciences 2021. [[paper]](https://doi.org/10.1016/j.ins.2020.08.088)
+6. Honglian Wang, Peiyan Li, Yang Liu, Junming Shao. **Towards real-time demand-aware sequential POI recommendation**. Information Sciences 2021. [[paper]](https://doi.org/10.1016/j.ins.2020.08.088) DSPR
 7. Yihao Zhang; Pengxiang Lan; Yuhao Wang; Haoran Xiang. **Spatio-Temporal Mogrifier LSTM and Attention Network for Next POI Recommendation**.ICWS 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9885757)
  
 
