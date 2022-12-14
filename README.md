@@ -43,7 +43,6 @@ Table of Contents
 2. Kangzhi Zhao, Yong Zhang, Hongzhi Yin, Jin Wang, Kai Zheng, Xiaofang Zhou, Chunxiao Xing. **Discovering Subsequence Patterns for Next POI Recommendation**. IJCAI 2020. [[paper]](https://doi.org/10.24963/ijcai.2020/445)
 3. Zhenhua Huang, Xiaolong Lin, Hai Liu, Bo Zhang, Yunwen Chen, Yong Tang. **Deep Representation Learning for Location-Based Recommendation**. IEEE Transactions on Computational Social Systems 2020. [[paper]](https://ieeexplore.ieee.org/document/9024121)
 4. Chongyu Zhong, Jinghua Zhu, Heran Xi. **PS-LSTM:Popularity Analysis And Social Network For Point-Of-Interest Recommendation In Previously Unvisited Locations**. CNIOT 2021. [[paper]](https://doi.org/10.1145/3468691.3468720)
-5. Chunshan Li,...... **MST-RNN: A Multi-Dimension Spatiotemporal Recurrent Neural Networks for Recommending the Next Point of Interest**. Mathematics 2022. [[paper]](https://doi.org/10.3390/math10111838)
 
 
 
