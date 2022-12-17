@@ -15,7 +15,7 @@ Table of Contents
     * [GRU Models](#GRU_Models)
     * [Graph Embedding Models](#Graph_Embedding_Models)
     * [GAN Models](#GAN_Models)
-    * [Encoder-Decoder Models](#Encoder-Decoder_Models)
+    * [Transformer Models](#Transformer_Models)
     * [Hybrid Model](#Hybrid_Model)
   * [Capture The Time Factor Component](#Consider_Only_Time)
   * [Capture The Geographic Factor Component](#Consider_Only_Geography)
@@ -111,7 +111,7 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 
 
 
-### Encoder-Decoder_Models
+### Transformer_Models
 1. Song Yang, Jiamou Liu, Kaiqi Zhao. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
 2. Xinfeng Wang, Fumiyo Fukumoto, Jiyi Li, Dongjin Yu & Xiaoxiao Sun . **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
 3. En Wang; Yiheng Jiang; Yuanbo Xu; Liang Wang; Yongjian Yang. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
