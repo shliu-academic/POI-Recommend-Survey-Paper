@@ -74,23 +74,28 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 #### Self_Attention
 1. Defu Lian, Yongji Wu, Yong Ge, Xing Xie, Enhong Chen. **Geography-Aware Sequential Location Recommendation**. KDD 2020. [[paper]](https://doi.org/10.1145/3394486.3403252)
 2. Qianyu Guo, Jianzhong Qi. **Sanst: a self-attentive network for next point-of-interest recommendation**. arXiv preprint arXiv:2001.10379 (2020). [[paper]](https://arxiv.org/abs/2001.10379)
-
+https://people.eng.unimelb.edu.au/jianzhongq/papers/IJCNN2020_TimeSAN.pdf
 
 
 ### GRU_Models
-1. Yuwen Liu,Aixiang Pei,Fan Wang,Yihong Yang,Xuyun Zhang,Hao Wang,Hongning Dai,Lianyong Qi,Rui Ma. **An attention-based category-aware GRU model for the next POI recommendation**. International Journal of INTELLIGENT SYSTEMS 2021. [[paper]]( https://doi.org/10.1002/int.22412)
-2. Jinfeng Fang， Xiangfu Meng. **URPI-GRU: An approach of next POI recommendation based on user relationship and preference information**. Knowledge-Based Systems 2022. [[paper]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT200368?viewType=HTML)
-3. Xixi Li, Ruimin Hu, Zheng Wang. **Next-point-of-interest recommendation based on joint mining of regularity and randomness**. Knowledge-Based Systems 2022. [[paper]](https://doi.org/10.1016/j.knosys.2022.109848)
+1. http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2019071289
+2. Yuwen Liu,Aixiang Pei,Fan Wang,Yihong Yang,Xuyun Zhang,Hao Wang,Hongning Dai,Lianyong Qi,Rui Ma. **An attention-based category-aware GRU model for the next POI recommendation**. International Journal of INTELLIGENT SYSTEMS 2021. [[paper]]( https://doi.org/10.1002/int.22412)
+3. Jinfeng Fang， Xiangfu Meng. **URPI-GRU: An approach of next POI recommendation based on user relationship and preference information**. Knowledge-Based Systems 2022. [[paper]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT200368?viewType=HTML)
+4. Xixi Li, Ruimin Hu, Zheng Wang. **Next-point-of-interest recommendation based on joint mining of regularity and randomness**. Knowledge-Based Systems 2022. [[paper]](https://doi.org/10.1016/j.knosys.2022.109848)
 
 
 
 
 
 ### Transformer_Models
-1. Song Yang, Jiamou Liu, Kaiqi Zhao. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
-2. Xinfeng Wang, Fumiyo Fukumoto, Jiyi Li, Dongjin Yu & Xiaoxiao Sun . **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
-3. En Wang; Yiheng Jiang; Yuanbo Xu; Liang Wang; Yongjian Yang. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
-4. Jiayi Xie, Zhenzhong Chen. **Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
+1.  Mingwei Zhang. **SNPR: A Serendipity-Oriented Next POI Recommendation Model**. CIKM 2021. [[paper]](https://doi.org/10.1145/3459637.3482394)
+2. Song Yang, Jiamou Liu, Kaiqi Zhao. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
+3. Xinfeng Wang, Fumiyo Fukumoto, Jiyi Li, Dongjin Yu & Xiaoxiao Sun . **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
+4. En Wang; Yiheng Jiang; Yuanbo Xu; Liang Wang; Yongjian Yang. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
+5. Jiayi Xie, Zhenzhong Chen. **Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
+6. https://dl.acm.org/doi/10.1145/3477495.3531905
+7. https://www.ijcai.org/proceedings/2022/521
+8. https://dl.acm.org/doi/10.1145/3437963.3441797
 
 
 
@@ -150,10 +155,6 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 1. Peng Han. **Contextualized Point-of-Interest Recommendation**.IJCAI 2020. [[paper]](https://www.ijcai.org/proceedings/2020/0344.pdf)
 
 
-2020:
-1. https://people.eng.unimelb.edu.au/jianzhongq/papers/IJCNN2020_TimeSAN.pdf
-2. http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2019071289
-
 
 2021:
 1. Huimin Sun. **MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation**.IJCAI 2021. [[paper]](https://www.ijcai.org/proceedings/2021/415)
@@ -161,16 +162,12 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 3. Yang Li. **Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation**. IJCAI 2021. [[paper]](https://www.ijcai.org/proceedings/2021/206)
 4. Xiao Liu. **Geo-BERT Pre-training Model for Query Rewriting in POI Search**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.190/)
 5. Zeyu Li. **You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation**.CIKM 2021. [[paper]](https://doi.org/10.1145/3459637.3481962)
-6. Mingwei Zhang. **SNPR: A Serendipity-Oriented Next POI Recommendation Model**. CIKM 2021. [[paper]](https://doi.org/10.1145/3459637.3482394)
-7. https://www.semanticscholar.org/paper/Location-Prediction-via-Bi-direction-Speculation-Li-Hu/398e15e41cbe123432ed7281fa30be792e25d0f3
+6. https://www.semanticscholar.org/paper/Location-Prediction-via-Bi-direction-Speculation-Li-Hu/398e15e41cbe123432ed7281fa30be792e25d0f3
 
 2022
 1. https://dl.acm.org/doi/pdf/10.1145/3477495.3531905
-3. https://dl.acm.org/doi/10.1145/3477495.3531905
-4. https://dl.acm.org/doi/10.1145/3477495.3531801
-5. https://dl.acm.org/doi/10.1145/3523227.3551481
-6. https://www.ijcai.org/proceedings/2022/521
-8. https://dl.acm.org/doi/10.1145/3511808.3557642
-11. https://dl.acm.org/doi/10.1145/3437963.3441797
+2. https://dl.acm.org/doi/10.1145/3477495.3531801
+3. https://dl.acm.org/doi/10.1145/3523227.3551481
+4. https://dl.acm.org/doi/10.1145/3511808.3557642
 
 updated in 2022.11.14
