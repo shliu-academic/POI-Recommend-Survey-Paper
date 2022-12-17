@@ -83,6 +83,18 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 3. Xixi Li, Ruimin Hu, Zheng Wang. **Next-point-of-interest recommendation based on joint mining of regularity and randomness**. Knowledge-Based Systems 2022. [[paper]](https://doi.org/10.1016/j.knosys.2022.109848)
 
 
+
+
+
+### Transformer_Models
+1. Song Yang, Jiamou Liu, Kaiqi Zhao. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
+2. Xinfeng Wang, Fumiyo Fukumoto, Jiyi Li, Dongjin Yu & Xiaoxiao Sun . **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
+3. En Wang; Yiheng Jiang; Yuanbo Xu; Liang Wang; Yongjian Yang. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
+4. Jiayi Xie, Zhenzhong Chen. **Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -109,13 +121,6 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 ### GAN_Models
 1. Qiang Gao, Fengli Zhang, Fuming Yao, Ailing Li, Lin Mei, Fan Zhou. **Adversarial Mobility Learning for Human Trajectory Classification**. IEEE Access 2020. [[Paper]](https://ieeexplore.ieee.org/document/8967063)
 
-
-
-### Transformer_Models
-1. Song Yang, Jiamou Liu, Kaiqi Zhao. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
-2. Xinfeng Wang, Fumiyo Fukumoto, Jiyi Li, Dongjin Yu & Xiaoxiao Sun . **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
-3. En Wang; Yiheng Jiang; Yuanbo Xu; Liang Wang; Yongjian Yang. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
-4. Jiayi Xie, Zhenzhong Chen. **Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
 
 
 
