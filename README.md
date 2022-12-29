@@ -107,7 +107,6 @@ https://people.eng.unimelb.edu.au/jianzhongq/papers/IJCNN2020_TimeSAN.pdf
 ### Graph_Embedding_Models
 1. Xi Xiong, Fei Xiong, Jun Zhao, Shaojie Qiao, Yuanyuan Lie, Ying Zhao. **Dynamic discovery of favorite locations in spatio-temporal social networks**. Information Processing and Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
 2. Nicholas Lim. **STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation**. CIKM 2020. [[Paper]](https://doi.org/10.1145/3340531.3411876)
-3. Zixuan Yuan. **Spatio-Temporal Dual Graph Attention Network for Query-POI Matching**. SIGIR 2020. [[Paper]](https://doi.org/10.1145/3397271.3401159) 
 4. Haoyu Han. **STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation**. ICDM 2020. [[Paper]](https://ieeexplore.ieee.org/document/9338281) 
 5. Yaqiong Qiao, Xiangyang Luo, Chenliang Li, Hechan Tian, Jiangtao Ma. **Heterogeneous graph-based joint representation learning for users and POIs in location-based social network**. Information Processing & Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2019.102151) 
 6. Meng Chen, Yan Zhao, Yang Liu, Xiaohui Yu, Kai Zheng. **Modeling spatial trajectories with attribute representation learning**. IEEE Transactions on Knowledge and Data Engineering 2020. [[Paper]](https://ieeexplore.ieee.org/document/9112685) 
