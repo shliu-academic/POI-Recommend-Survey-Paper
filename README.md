@@ -75,12 +75,12 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 2. **Origin-Aware Next Destination Recommendation with Personalized Preference Attention**[[Paper]](https://dl.acm.org/doi/10.1145/3437963.3441797)
 
 2022
-2. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
-3. **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
-4. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
-5. **Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
-6. **Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network**. [[Paper]](https://dl.acm.org/doi/10.1145/3477495.3531905)
-7. **Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences**.[[Paper]](https://www.ijcai.org/proceedings/2022/521)
+1. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
+2. **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
+3. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
+4. **Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
+5. **Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network**. [[Paper]](https://dl.acm.org/doi/10.1145/3477495.3531905)
+6. **Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences**.[[Paper]](https://www.ijcai.org/proceedings/2022/521)
 
 
 
