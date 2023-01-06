@@ -29,7 +29,7 @@ Table of Contents
 ## Survey
 ### 2021
 * Key Research on Recommendation Algorithms Based on Spatio-temporal Relationships in Location Social Networks.
-<br>2021 International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)　　　　　　　　　　IEEE
+<br>2021 International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9545948)
 
 ### 2022
@@ -170,17 +170,29 @@ Table of Contents
 <br>[[Paper]](https://dl.acm.org/doi/10.1145/3437963.3441797)
 
 #### 2022
-* GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
+* GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation. 
+<br>SIGIR. 
+<br>[[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
 
-* STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
+* STaTRL: Spatial-temporal and text representation learning for POI recommendation. 
+<br>Applied Intelligence. 
+<br>[[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
 
-* Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
+* Spatial-Temporal Interval Aware Sequential POI Recommendation.
+<br>ICDE. 
+<br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
 
-* Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
+* Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation.
+<br>arXiv. 
+<br>[[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
 
-* Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network**. [[Paper]](https://dl.acm.org/doi/10.1145/3477495.3531905)
+* Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network. 
+<br>SIGIR　　　　　　　　　ACM Digital Library
+<br>[[Paper]](https://dl.acm.org/doi/10.1145/3477495.3531905)
 
-* Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences**.[[Paper]](https://www.ijcai.org/proceedings/2022/521)
+* Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences.
+<br> IJCAI
+<br>[[Paper]](https://www.ijcai.org/proceedings/2022/521)
 
 * Long- and Short-term Preference Learning with Enhanced Spatial Transformer for Next POI Recommendation
 <br>2022 5th International Conference on Data Science and Information Technology (DSIT)　　　　　　　IEEE
@@ -191,26 +203,50 @@ Table of Contents
 ### Graph_Learning_Based_Models
 
 #### 2020
-* Dynamic discovery of favorite locations in spatio-temporal social networks. Information Processing and Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
+* Dynamic discovery of favorite locations in spatio-temporal social networks. 
+<br>Information Processing and Management. 
+<br>[[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
 
-* STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation. CIKM 2020. [[Paper]](https://doi.org/10.1145/3340531.3411876)
+* STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation. 
+<br>CIKM. 
+<br>[[Paper]](https://doi.org/10.1145/3340531.3411876)
 
-* STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation. ICDM 2020. [[Paper]](https://ieeexplore.ieee.org/document/9338281) 
+* STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation. 
+<br>ICDM. 
+<br>[[Paper]](https://ieeexplore.ieee.org/document/9338281) 
 
-* Heterogeneous graph-based joint representation learning for users and POIs in location-based social network. Information Processing & Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2019.102151) 
+* Heterogeneous graph-based joint representation learning for users and POIs in location-based social network. 
+<br>Information Processing & Management. 
+<br>[[Paper]](https://doi.org/10.1016/j.ipm.2019.102151) 
 
-* Modeling spatial trajectories with attribute representation learning. IEEE Transactions on Knowledge and Data Engineering 2020. [[Paper]](https://ieeexplore.ieee.org/document/9112685) 
+* Modeling spatial trajectories with attribute representation learning. 
+<br>IEEE Transactions on Knowledge and Data Engineering. 
+<br>[[Paper]](https://ieeexplore.ieee.org/document/9112685) 
 
 #### 2021
-* A graph embedding based model for fine-grained POI recommendation**. Neurocomputing 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2020.01.118)
+* A graph embedding based model for fine-grained POI recommendation**. 
+<br>Neurocomputing. 
+<br>[[Paper]](https://doi.org/10.1016/j.neucom.2020.01.118)
 
-* Time-aware User Modeling with Check-in Time Prediction for Next POI Recommendation**. ICWS 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9590322) 
+* Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching. 
+<br>WWW 
+<br>[[Paper]](https://doi.org/10.1145/3442381.3449810)
 
-* DynaPosGNN: Dynamic-Positional GNN for Next POI Recommendation**. ICDMW 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9680032) 
+* Time-aware User Modeling with Check-in Time Prediction for Next POI Recommendation. 
+<br>ICWS. 
+<br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9590322) 
 
-* Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation**. IJCAI 2021. [[paper]](https://www.ijcai.org/proceedings/2021/206)
+* DynaPosGNN: Dynamic-Positional GNN for Next POI Recommendation. 
+<br>ICDMW. 
+<br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9680032) 
 
-* You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation**.CIKM 2021. [[paper]](https://doi.org/10.1145/3459637.3481962)
+* Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation. 
+<br>IJCAI 
+<br>[[paper]](https://www.ijcai.org/proceedings/2021/206)
+
+* You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation.
+<br>CIKM. 
+<br>[[paper]](https://doi.org/10.1145/3459637.3481962)
 
 * Multi-network Embedding for Missing Point-of-Interest Identification
 <br> 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)　　　　　　　IEEE
@@ -227,21 +263,34 @@ Table of Contents
 
 
 #### 2022
-* Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching**. WWW 2021. [[Paper]](https://doi.org/10.1145/3442381.3449810)
 
-* Building and exploiting spatial–temporal knowledge graph for next POI recommendation**. Knowledge-Based Systems 2022. [[Paper]](https://doi.org/10.1016/j.knosys.2022.109951) 
+* Building and exploiting spatial–temporal knowledge graph for next POI recommendation. 
+<br>Knowledge-Based Systems  
+<br>[[Paper]](https://doi.org/10.1016/j.knosys.2022.109951) 
 
-* Learning Graph-based Disentangled Representations for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://doi.org/10.1145/3477495.3532012) 
+* Learning Graph-based Disentangled Representations for Next POI Recommendation. 
+<br>SIGIR
+<br>[[Paper]](https://doi.org/10.1145/3477495.3532012) 
 
-* An Attention-Based Spatiotemporal GGNN for Next POI Recommendation**. IEEE Access 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9727181) 
+* An Attention-Based Spatiotemporal GGNN for Next POI Recommendation. 
+<br>IEEE Access  
+<br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9727181) 
 
-* Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation**. IJCAI 2022. [[Paper]](https://www.ijcai.org/proceedings/2022/0490.pdf) 
+* Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation. 
+<br>IJCAI
+<br>[[Paper]](https://www.ijcai.org/proceedings/2022/0490.pdf) 
 
-* Graph-Flashback Network for Next Location Recommendation**. KDD 2022. [[Paper]](https://doi.org/10.1145/3534678.3539383) 
+* Graph-Flashback Network for Next Location Recommendation. 
+<br>KDD  
+<br>[[Paper]](https://doi.org/10.1145/3534678.3539383) 
 
-* Interaction-Enhanced and Time-Aware Graph Convolutional Network for Successive Point-of-Interest Recommendation in Traveling Enterprises**.  IEEE Transactions on Industrial Informatics 2022. [[Paper]](https://ieeexplore.ieee.org/document/9863644) 
+* Interaction-Enhanced and Time-Aware Graph Convolutional Network for Successive Point-of-Interest Recommendation in Traveling Enterprises.  
+<br>IEEE Transactions on Industrial Informatics. 
+<br>[[Paper]](https://ieeexplore.ieee.org/document/9863644) 
 
-* Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation**.CIKM 2022. [[paper]](https://doi.org/10.1145/3340531.3411905)
+* Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation.
+<br>CIKM 
+<br>[[paper]](https://doi.org/10.1145/3340531.3411905)
 
 * A POI Recommendation Model with Temporal-Regional Based Graph Representation Learning.
 <br>2022 IEEE 5th International Conference on Information Systems and Computer Aided Education (ICISCAE)　　　　　IEEE
@@ -257,7 +306,11 @@ Table of Contents
 
 
 ### GAN_Models
-* Adversarial Mobility Learning for Human Trajectory Classification**. IEEE Access 2020. [[Paper]](https://ieeexplore.ieee.org/document/8967063)
+
+#### 2020
+* Adversarial Mobility Learning for Human Trajectory Classification. 
+<br>IEEE Access. 
+<br>[[Paper]](https://ieeexplore.ieee.org/document/8967063)
 
 
 
@@ -265,20 +318,34 @@ Table of Contents
 ### Mixture_Models
 
 #### 2020
-* Personalized Geographical Influence Modeling for POI Recommendation**.  IEEE Intelligent Systems 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9102414)
+* Personalized Geographical Influence Modeling for POI Recommendation.  
+<br>IEEE Intelligent Systems 
+<br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9102414)
 
-* Cem: a convolutional embedding model for predicting next locations**. IEEE Transactions on Intelligent Transportation Systems 2020. [[Paper]](https://ieeexplore.ieee.org/document/9064808)
+* Cem: a convolutional embedding model for predicting next locations. 
+<br>IEEE Transactions on Intelligent Transportation Systems. 
+<br>[[Paper]](https://ieeexplore.ieee.org/document/9064808)
 
 #### 2021
-* Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie**. DASFAA 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_37)
+* Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie. 
+<br>DASFAA 
+<br>[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_37)
 
-* Hierarchical and Multi-Resolution Preference Modeling for Next POI Recommendation**. IJCNN 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9533980)
+* Hierarchical and Multi-Resolution Preference Modeling for Next POI Recommendation**. 
+<br>IJCNN  
+<br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9533980)
 
-* Leveraging graph neural networks for point-of-interest recommendations**. Neurocomputing 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2021.07.063)
+* Leveraging graph neural networks for point-of-interest recommendations. 
+<br>Neurocomputing 
+<br>[[Paper]](https://doi.org/10.1016/j.neucom.2021.07.063)
 
-* An integrated model based on deep multimodal and rank learning for point-of-interest recommendation**.World Wide Web (2021). [[paper]](https://link.springer.com/article/10.1007/s11280-021-00865-8)
+* An integrated model based on deep multimodal and rank learning for point-of-interest recommendation.
+<br>World Wide Web 
+<br>[[paper]](https://link.springer.com/article/10.1007/s11280-021-00865-8)
 
-* ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation**. CIKM 2021. [[Paper]](https://doi.org/10.1145/3459637.3482189)
+* ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation. 
+<br>CIKM 
+<br>[[Paper]](https://doi.org/10.1145/3459637.3482189)
 
 * Social and Spatio-Temporal Learning for Contextualized Next Points-of-Interest Prediction.
 <br>  2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI).　　　　　　　IEEE
@@ -289,15 +356,25 @@ Table of Contents
 <br>[[paper]](https://ieeexplore.ieee.org/document/9500836)
 
 #### 2022
-* STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)
+* STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.
+<br>WWW 
+<br>[[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)
 
-* Empowering Next POI Recommendation with Multi-Relational Modeling**.arXiv 2022. [[paper]](https://doi.org/10.48550/arXiv.2204.12288)
+* Empowering Next POI Recommendation with Multi-Relational Modeling.
+<br>arXiv  
+<br>[[paper]](https://doi.org/10.48550/arXiv.2204.12288)
 
-* Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation**.ICLR 2022. [[paper]](https://openreview.net/forum?id=9W2KnHqm_xN)
+* Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
+<br>ICLR 
+<br>[[paper]](https://openreview.net/forum?id=9W2KnHqm_xN)
 
-* Point-of-interest recommendation1. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998) 
+* STAN: Spatio-Temporal Attention Network for Next Location Recommendation.
+<br>WWW  
+<br>[[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998) 
 
-* model considering strength of user relationship for location-based social networks.Expert Systems with Applications 2022. [[paper]](https://doi.org/10.1016/j.eswa.2022.117147)
+* Point-of-interest recommendation model considering strength of user relationship for location-based social networks.
+<br>Expert Systems with Applications.　　　　　　　　ScienceDirect
+<br>[[paper]](https://doi.org/10.1016/j.eswa.2022.117147)
 
 * CARAN: A Context-Aware Recency-Based Attention Network for Point-of-Interest Recommendation.
 <br> IEEE Access　　　　　　　IEEE
