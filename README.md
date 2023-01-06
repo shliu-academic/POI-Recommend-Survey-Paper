@@ -140,17 +140,21 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 1. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)
 2. **Empowering Next POI Recommendation with Multi-Relational Modeling**.arXiv 2022. [[paper]](https://doi.org/10.48550/arXiv.2204.12288)
 3. **Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation**.ICLR 2022. [[paper]](https://openreview.net/forum?id=9W2KnHqm_xN)
-4. **Point-of-interest recommendation1. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998) model considering strength of user relationship for location-based social networks**.Expert Systems with Applications 2022. [[paper]](https://doi.org/10.1016/j.eswa.2022.117147)
+4. **Point-of-interest recommendation1. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998) 
+5. **model considering strength of user relationship for location-based social networks**.Expert Systems with Applications 2022. [[paper]](https://doi.org/10.1016/j.eswa.2022.117147)
 
 
 
 ### Other_Models
 
-####2020
-1. **STPR: A Personalized Next Point-of-Interest Recommendation Model with Spatio-Temporal Effects Based on Purpose Ranking**.
+#### 2020
+* STPR: A Personalized Next Point-of-Interest Recommendation Model with Spatio-Temporal Effects Based on Purpose Ranking.
+<br>IEEE Transactions on Emerging Topics in Computing.
+<br>[[paper]](https://ieeexplore.ieee.org/document/8695772)
 
-IEEE Transactions on Emerging Topics in Computing.
 
-[[paper]](https://ieeexplore.ieee.org/document/8695772)
+
+
+
 
 updated in 2022.11.14
