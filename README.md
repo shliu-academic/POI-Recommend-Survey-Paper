@@ -153,9 +153,13 @@ Table of Contents
 ### Transformer_Models
 
 #### 2021
-* SNPR: A Serendipity-Oriented Next POI Recommendation Model**. CIKM 2021. [[paper]](https://doi.org/10.1145/3459637.3482394)
+* SNPR: A Serendipity-Oriented Next POI Recommendation Model. 
+<br>CIKM. 
+<br>[[paper]](https://doi.org/10.1145/3459637.3482394)
 
-* Origin-Aware Next Destination Recommendation with Personalized Preference Attention**[[Paper]](https://dl.acm.org/doi/10.1145/3437963.3441797)
+* Origin-Aware Next Destination Recommendation with Personalized Preference Attention
+<br>WSDM.
+<br>[[Paper]](https://dl.acm.org/doi/10.1145/3437963.3441797)
 
 #### 2022
 * GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
@@ -179,11 +183,15 @@ Table of Contents
 ### Graph_Learning_Based_Models
 
 #### 2020
-1. **Dynamic discovery of favorite locations in spatio-temporal social networks**. Information Processing and Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
-2. **STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation**. CIKM 2020. [[Paper]](https://doi.org/10.1145/3340531.3411876)
-3. **STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation**. ICDM 2020. [[Paper]](https://ieeexplore.ieee.org/document/9338281) 
-4. **Heterogeneous graph-based joint representation learning for users and POIs in location-based social network**. Information Processing & Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2019.102151) 
-5. **Modeling spatial trajectories with attribute representation learning**. IEEE Transactions on Knowledge and Data Engineering 2020. [[Paper]](https://ieeexplore.ieee.org/document/9112685) 
+* Dynamic discovery of favorite locations in spatio-temporal social networks. Information Processing and Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
+
+* STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation. CIKM 2020. [[Paper]](https://doi.org/10.1145/3340531.3411876)
+
+* STGCN: A Spatial-Temporal Aware Graph Learning Method for POI Recommendation. ICDM 2020. [[Paper]](https://ieeexplore.ieee.org/document/9338281) 
+
+* Heterogeneous graph-based joint representation learning for users and POIs in location-based social network. Information Processing & Management 2020. [[Paper]](https://doi.org/10.1016/j.ipm.2019.102151) 
+
+* Modeling spatial trajectories with attribute representation learning. IEEE Transactions on Knowledge and Data Engineering 2020. [[Paper]](https://ieeexplore.ieee.org/document/9112685) 
 
 #### 2021
 * A graph embedding based model for fine-grained POI recommendation**. Neurocomputing 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2020.01.118)
@@ -241,7 +249,7 @@ Table of Contents
 
 
 ### GAN_Models
-1. **Adversarial Mobility Learning for Human Trajectory Classification**. IEEE Access 2020. [[Paper]](https://ieeexplore.ieee.org/document/8967063)
+* Adversarial Mobility Learning for Human Trajectory Classification**. IEEE Access 2020. [[Paper]](https://ieeexplore.ieee.org/document/8967063)
 
 
 
@@ -249,8 +257,9 @@ Table of Contents
 ### Mixture_Models
 
 #### 2020
-1. **Personalized Geographical Influence Modeling for POI Recommendation**.  IEEE Intelligent Systems 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9102414)
-2. **Cem: a convolutional embedding model for predicting next locations**. IEEE Transactions on Intelligent Transportation Systems 2020. [[Paper]](https://ieeexplore.ieee.org/document/9064808)
+* Personalized Geographical Influence Modeling for POI Recommendation**.  IEEE Intelligent Systems 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9102414)
+
+* Cem: a convolutional embedding model for predicting next locations**. IEEE Transactions on Intelligent Transportation Systems 2020. [[Paper]](https://ieeexplore.ieee.org/document/9064808)
 
 #### 2021
 * Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie**. DASFAA 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_37)
