@@ -15,7 +15,7 @@ Table of Contents
     * [Graph Learning Based Models](#Graph_Learning_Based_Models)
     * [GAN Models](#GAN_Models)
     * [Mixture Models](#Mixture_Models)
-    * [Other Models]Other_Models
+    * [Other Models](#Other_Models)
 
 ## Survey
 1. Md. Ashraful Islam, Mir Mahathir Mohammad, Sarkar Snigdha Sarathi Das, Mohammed Eunus Ali. **A survey on deep learning based Point-of-Interest (POI) recommendations**. Neurocomputing 2022. [[Paper]](https://doi.org/10.1016/j.neucom.2021.05.114)
@@ -148,7 +148,9 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 
 2020
 1. **STPR: A Personalized Next Point-of-Interest Recommendation Model with Spatio-Temporal Effects Based on Purpose Ranking**.
+
 IEEE Transactions on Emerging Topics in Computing.
+
 [[paper]](https://ieeexplore.ieee.org/document/8695772)
 
 updated in 2022.11.14
