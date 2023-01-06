@@ -15,6 +15,7 @@ Table of Contents
     * [Graph Learning Based Models](#Graph_Learning_Based_Models)
     * [GAN Models](#GAN_Models)
     * [Mixture Models](#Mixture_Models)
+    * [Other Models]Other_Models
 
 ## Survey
 1. Md. Ashraful Islam, Mir Mahathir Mohammad, Sarkar Snigdha Sarathi Das, Mohammed Eunus Ali. **A survey on deep learning based Point-of-Interest (POI) recommendations**. Neurocomputing 2022. [[Paper]](https://doi.org/10.1016/j.neucom.2021.05.114)
@@ -139,9 +140,15 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 1. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)
 2. **Empowering Next POI Recommendation with Multi-Relational Modeling**.arXiv 2022. [[paper]](https://doi.org/10.48550/arXiv.2204.12288)
 3. **Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation**.ICLR 2022. [[paper]](https://openreview.net/forum?id=9W2KnHqm_xN)
-4. **Point-of-interest recommendation model considering strength of user relationship for location-based social networks**.Expert Systems with Applications 2022. [[paper]](https://doi.org/10.1016/j.eswa.2022.117147)
+4. **Point-of-interest recommendation1. **STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998) model considering strength of user relationship for location-based social networks**.Expert Systems with Applications 2022. [[paper]](https://doi.org/10.1016/j.eswa.2022.117147)
 
 
 
+### Other_Models
+
+2020
+1. **STPR: A Personalized Next Point-of-Interest Recommendation Model with Spatio-Temporal Effects Based on Purpose Ranking**.
+IEEE Transactions on Emerging Topics in Computing.
+[[paper]](https://ieeexplore.ieee.org/document/8695772)
 
 updated in 2022.11.14
