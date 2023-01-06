@@ -100,10 +100,6 @@ Table of Contents
 <br>Information Sciences 2021. 
 <br>[[paper]](https://doi.org/10.1016/j.ins.2020.08.088)
 
-* Spatio-Temporal Mogrifier LSTM and Attention Network for Next POI Recommendation.
-<br>ICWS 2022. 
-<br>[[paper]](https://ieeexplore.ieee.org/abstract/document/9885757)
-
 * Attentional Memory Network with Correlation-based Embedding for time-aware POI recommendation. 
 <br>Knowledge-Based Systems 2021. 
 <br>[[paper]](https://doi.org/10.1016/j.knosys.2021.106747)
@@ -118,6 +114,10 @@ Table of Contents
 
 
 #### 2022
+* Spatio-Temporal Mogrifier LSTM and Attention Network for Next POI Recommendation.
+<br>IEEE International Conference on Web Services(ICWS)           IEEE
+<br>[[paper]](https://ieeexplore.ieee.org/abstract/document/9885757)
+
 * URPI-GRU: An approach of next POI recommendation based on user relationship and preference information. 
 <br>Knowledge-Based Systems 2022. 
 <br>[[paper]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT200368?viewType=HTML)
@@ -211,7 +211,7 @@ Table of Contents
 
 #### 2020
 * STPR: A Personalized Next Point-of-Interest Recommendation Model with Spatio-Temporal Effects Based on Purpose Ranking.
-<br>IEEE Transactions on Emerging Topics in Computing.
+<br>IEEE Transactions on Emerging Topics in Computing.       IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/8695772)
 
 
