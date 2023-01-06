@@ -18,16 +18,18 @@ Table of Contents
     * [Other Models](#Other_Models)
 
 ## Survey
-1. Md. Ashraful Islam, Mir Mahathir Mohammad, Sarkar Snigdha Sarathi Das, Mohammed Eunus Ali. **A survey on deep learning based Point-of-Interest (POI) recommendations**. Neurocomputing 2022. [[Paper]](https://doi.org/10.1016/j.neucom.2021.05.114)
+* A survey on deep learning based Point-of-Interest (POI) recommendations. 
+<br>Neurocomputing 2022. 
+<br>[[Paper]](https://doi.org/10.1016/j.neucom.2021.05.114)
 
 
 
 ## Dataset
-1. Foursquare Dataset. [[Download]](https://sites.google.com/site/yangdingqi/home/foursquare-dataset)
-2. Gowalla Dataset. [[Download]](http://snap.stanford.edu/data/loc-Gowalla.html)
-3. Brightkite Dataset. [[Download]](http://snap.stanford.edu/data/loc-Brightkite.html)
-4. Weeplaces Dataset. [[Download]](https://www.yongliu.org/datasets.html)
-5. Yelp Dataset. [[Download]](https://www.yelp.com/dataset/)
+* Foursquare Dataset. [[Download]](https://sites.google.com/site/yangdingqi/home/foursquare-dataset)
+* Gowalla Dataset. [[Download]](http://snap.stanford.edu/data/loc-Gowalla.html)
+* Brightkite Dataset. [[Download]](http://snap.stanford.edu/data/loc-Brightkite.html)
+* Weeplaces Dataset. [[Download]](https://www.yongliu.org/datasets.html)
+* Yelp Dataset. [[Download]](https://www.yelp.com/dataset/)
 
 
 ## Models_
@@ -35,9 +37,13 @@ Table of Contents
 
 ### RNN_Based_Models
 
-2020
-1. **Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!**. IJCAI 2020. [[paper]](https://www.ijcai.org/proceedings/2020/302)
-2. **Discovering Subsequence Patterns for Next POI Recommendation**. IJCAI 2020. [[paper]](https://doi.org/10.24963/ijcai.2020/445)
+#### 2020
+* Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!
+<br>IJCAI 2020. 
+<br>[[paper]](https://www.ijcai.org/proceedings/2020/302)
+* Discovering Subsequence Patterns for Next POI Recommendation. 
+<br>IJCAI 2020. 
+<br>[[paper]](https://doi.org/10.24963/ijcai.2020/445)
 3. **Deep Representation Learning for Location-Based Recommendation**. IEEE Transactions on Computational Social Systems 2020. [[paper]](https://ieeexplore.ieee.org/document/9024121)
 4. **Personalized Long- and Short-term Preference Learning for Next POI Recommendation**. IEEE Transactions on Knowledge and Data Engineering 2020. [[paper]](https://ieeexplore.ieee.org/document/9117156)
 5. **Where to go next: modeling long-and short-term user preferences for point-of-interest recommendation**. Proceedings of the AAAI Conference on Artificial Intelligence 2020. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5353)
