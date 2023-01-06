@@ -1,8 +1,12 @@
 # Spatio Temporal Network For Next POI Recommendation
 paper：基于深度学习时空网络的poi推荐；
+
 调研近三年：2020-2022；
+
 通过IEEE Xplore、ScienceDirect、ACM Digital Library、Springer和AI-Paper-Search进行检索；
+
 检索词包括："time"、"Geographic"、"Spatio"、"Temporal"、"Network"、"POI"、"location"、"Recommendation"；
+
 只筛选涉及到深度学习领域的paper；
 
 
