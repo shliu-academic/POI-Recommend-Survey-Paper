@@ -146,7 +146,7 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 
 ### Other_Models
 
-2020
+####2020
 1. **STPR: A Personalized Next Point-of-Interest Recommendation Model with Spatio-Temporal Effects Based on Purpose Ranking**.
 
 IEEE Transactions on Emerging Topics in Computing.
