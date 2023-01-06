@@ -11,6 +11,7 @@ Table of Contents
   * [Dataset](#Dataset)
   * [Models](#Models_)
     * [RNN Based Models](#RNN_Based_Models)
+    * [CNN Based Models](#CNN_Based_Models)
     * [Transformer Models](#Transformer_Models)
     * [Graph Learning Based Models](#Graph_Learning_Based_Models)
     * [GAN Models](#GAN_Models)
@@ -142,6 +143,11 @@ Table of Contents
 
 
 
+### CNN_Based_Models
+#### 2020
+* Personalized tourism route recommendation based on user’s active interests
+<br>2020 21st IEEE International Conference on Mobile Data Management (MDM).      　　　　 IEEE 
+<br>[[paper]](https://ieeexplore.ieee.org/document/9162322)
 
 
 ### Transformer_Models
@@ -247,11 +253,23 @@ Table of Contents
 2. **Cem: a convolutional embedding model for predicting next locations**. IEEE Transactions on Intelligent Transportation Systems 2020. [[Paper]](https://ieeexplore.ieee.org/document/9064808)
 
 #### 2021
-1. **Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie**. DASFAA 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_37)
-2. **Hierarchical and Multi-Resolution Preference Modeling for Next POI Recommendation**. IJCNN 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9533980)
-3. **Leveraging graph neural networks for point-of-interest recommendations**. Neurocomputing 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2021.07.063)
-4. **An integrated model based on deep multimodal and rank learning for point-of-interest recommendation**.World Wide Web (2021). [[paper]](https://link.springer.com/article/10.1007/s11280-021-00865-8)
-5. **ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation**. CIKM 2021. [[Paper]](https://doi.org/10.1145/3459637.3482189)
+* Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie**. DASFAA 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_37)
+
+* Hierarchical and Multi-Resolution Preference Modeling for Next POI Recommendation**. IJCNN 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9533980)
+
+* Leveraging graph neural networks for point-of-interest recommendations**. Neurocomputing 2021. [[Paper]](https://doi.org/10.1016/j.neucom.2021.07.063)
+
+* An integrated model based on deep multimodal and rank learning for point-of-interest recommendation**.World Wide Web (2021). [[paper]](https://link.springer.com/article/10.1007/s11280-021-00865-8)
+
+* ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation**. CIKM 2021. [[Paper]](https://doi.org/10.1145/3459637.3482189)
+
+* Social and Spatio-Temporal Learning for Contextualized Next Points-of-Interest Prediction.
+<br>  2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI).　　　　　　　IEEE
+<br>[[paper]](https://ieeexplore.ieee.org/document/9643230)
+
+* Trajectory-User Linking via Graph Neural Network
+<br> ICC 2021 - IEEE International Conference on Communications.　　　　　　　IEEE
+<br>[[paper]](https://ieeexplore.ieee.org/document/9500836)
 
 #### 2022
 * STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)
@@ -283,6 +301,10 @@ Table of Contents
 <br>2020 IEEE 5th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA).       IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9095741)
 
+* A Point-of-Interest Recommendation Algorithm Combining Social Influence and Geographic Location Based on Belief Propagation.
+<br>IEEE Access.       IEEE
+<br>[[paper]](https://ieeexplore.ieee.org/document/9174725) 
+
 * Exploiting Location-Based Context for POI Recommendation When Traveling to a New Region
 <br>IEEE Access.　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9036967)
@@ -295,7 +317,7 @@ Table of Contents
 <br> 2020 IEEE 2nd International Conference on Power Data Science (ICPDS)　　　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9332517)
 
-### 2022
+#### 2022
 * Online POI Recommendation: Learning Dynamic Geo-Human Interactions in Streams.
 <br>  IEEE Transactions on Big Data ( Early Access )　　　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9921335)
