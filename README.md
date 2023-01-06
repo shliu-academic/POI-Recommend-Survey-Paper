@@ -115,7 +115,7 @@ Table of Contents
 
 #### 2022
 * Spatio-Temporal Mogrifier LSTM and Attention Network for Next POI Recommendation.
-<br>IEEE International Conference on Web Services(ICWS)           IEEE
+<br>IEEE International Conference on Web Services(ICWS)      　　　　 IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/abstract/document/9885757)
 
 * URPI-GRU: An approach of next POI recommendation based on user relationship and preference information. 
