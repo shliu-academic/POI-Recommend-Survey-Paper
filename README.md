@@ -39,37 +39,92 @@ Table of Contents
 
 #### 2020
 * Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!
-<br>IJCAI 2020. 
+<br>IJCAI. 
 <br>[[paper]](https://www.ijcai.org/proceedings/2020/302)
+
 * Discovering Subsequence Patterns for Next POI Recommendation. 
-<br>IJCAI 2020. 
+<br>IJCAI. 
 <br>[[paper]](https://doi.org/10.24963/ijcai.2020/445)
-3. **Deep Representation Learning for Location-Based Recommendation**. IEEE Transactions on Computational Social Systems 2020. [[paper]](https://ieeexplore.ieee.org/document/9024121)
-4. **Personalized Long- and Short-term Preference Learning for Next POI Recommendation**. IEEE Transactions on Knowledge and Data Engineering 2020. [[paper]](https://ieeexplore.ieee.org/document/9117156)
-5. **Where to go next: modeling long-and short-term user preferences for point-of-interest recommendation**. Proceedings of the AAAI Conference on Artificial Intelligence 2020. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5353)
-6. **A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data**. Proceedings of The Web Conference 2020. [[paper]](https://doi.org/10.1145/3366423.3380202)
-7. **An attentional recurrent neural network for personalized next location recommendation**. Proceedings of the AAAI
-Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aaai.v34i01.5337)
-8. **An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins**. IJCAI 2020. [[paper]](http://184pc128.csie.ntnu.edu.tw/presentation/21-04-12/An%20Interactive%20Multi-Task%20Learning%20Framework%20for%20Next%20POI%20Recommendation%20with%20Uncertain%20Check-ins.pdf)
-9. **Exploiting geographical-temporal awareness attention for next point-of-interest recommendation**. Neurocomputing 2020. [[paper]](https://doi.org/10.1016/j.neucom.2019.12.122)
-10. **Time-aware location prediction by convolutional area-of-interest modeling and memory-augmented attentive lstm**. IEEE Transactions on Knowledge and Data Engineering 2020. [[paper]](https://ieeexplore.ieee.org/document/9128016)
-11. **Where to go next: A spatio-temporal gated network for next poi recommendation**. Proceedings of the AAAI Conference on Artificial Intelligence 2020. [[paper]](https://ieeexplore.ieee.org/document/9133505)
-12. **TimeSAN: A Time-Modulated Self-Attentive Network for Next Point-of-Interest Recommendation**. IJCNN 2020. [[paper]](https://people.eng.unimelb.edu.au/jianzhongq/papers/IJCNN2020_TimeSAN.pdf)
-13. **Geography-Aware Sequential Location Recommendation**. KDD 2020. [[paper]](https://doi.org/10.1145/3394486.3403252)
-14. **Sanst: a self-attentive network for next point-of-interest recommendation**. arXiv preprint arXiv:2001.10379 (2020). [[paper]](https://arxiv.org/abs/2001.10379)
+
+* Deep Representation Learning for Location-Based Recommendation. 
+<br>IEEE Transactions on Computational Social Systems. 
+<br>[[paper]](https://ieeexplore.ieee.org/document/9024121)
+
+* Personalized Long- and Short-term Preference Learning for Next POI Recommendation. 
+<br>IEEE Transactions on Knowledge and Data Engineering. 
+<br>[[paper]](https://ieeexplore.ieee.org/document/9117156)
+
+* Where to go next: modeling long-and short-term user preferences for point-of-interest recommendation. 
+<br>Proceedings of the AAAI Conference on Artificial Intelligence. 
+<br>[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5353)
+
+* A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data. 
+<br>Proceedings of The Web Conference 2020. 
+<br>[[paper]](https://doi.org/10.1145/3366423.3380202)
+
+* An attentional recurrent neural network for personalized next location recommendation. 
+<br>Proceedings of the AAAI Conference on Artificial Intelligence. 
+<br>[[paper]](https://doi.org/10.1609/aaai.v34i01.5337)
+
+* An Interactive Multi-Task Learning Framework for Next POI Recommendation with Uncertain Check-ins. 
+<br>IJCAI. 
+<br>[[paper]](http://184pc128.csie.ntnu.edu.tw/presentation/21-04-12/An%20Interactive%20Multi-Task%20Learning%20Framework%20for%20Next%20POI%20Recommendation%20with%20Uncertain%20Check-ins.pdf)
+
+* Exploiting geographical-temporal awareness attention for next point-of-interest recommendation. 
+<br>Neurocomputing. 
+<br>[[paper]](https://doi.org/10.1016/j.neucom.2019.12.122)
+
+* Time-aware location prediction by convolutional area-of-interest modeling and memory-augmented attentive lstm. 
+<br>IEEE Transactions on Knowledge and Data Engineering 2020. 
+<br>[[paper]](https://ieeexplore.ieee.org/document/9128016)
+
+* Where to go next: A spatio-temporal gated network for next poi recommendation. 
+<br>Proceedings of the AAAI Conference on Artificial Intelligence 2020. 
+<br>[[paper]](https://ieeexplore.ieee.org/document/9133505)
+
+* TimeSAN: A Time-Modulated Self-Attentive Network for Next Point-of-Interest Recommendation. 
+<br>IJCNN 2020. 
+<br>[[paper]](https://people.eng.unimelb.edu.au/jianzhongq/papers/IJCNN2020_TimeSAN.pdf)
+
+* Geography-Aware Sequential Location Recommendation. 
+<br>KDD 2020. 
+<br>[[paper]](https://doi.org/10.1145/3394486.3403252)
+
+* Sanst: a self-attentive network for next point-of-interest recommendation. 
+<br>arXiv preprint arXiv:2001.10379 (2020). 
+<br>[[paper]](https://arxiv.org/abs/2001.10379)
 
 
-2021
-1. **Towards real-time demand-aware sequential POI recommendation**. Information Sciences 2021. [[paper]](https://doi.org/10.1016/j.ins.2020.08.088) DSPR
-2. **Spatio-Temporal Mogrifier LSTM and Attention Network for Next POI Recommendation**.ICWS 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9885757)
-3. **Attentional Memory Network with Correlation-based Embedding for time-aware POI recommendation**. Knowledge-Based Systems 2021. [[paper]](https://doi.org/10.1016/j.knosys.2021.106747)
-4. **An attention-based category-aware GRU model for the next POI recommendation**. International Journal of INTELLIGENT SYSTEMS 2021. [[paper]]( https://doi.org/10.1002/int.22412)
-5. **MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation**.IJCAI 2021. [[paper]](https://www.ijcai.org/proceedings/2021/415)
+#### 2021
+* Towards real-time demand-aware sequential POI recommendation.
+<br>Information Sciences 2021. 
+<br>[[paper]](https://doi.org/10.1016/j.ins.2020.08.088)
+
+* Spatio-Temporal Mogrifier LSTM and Attention Network for Next POI Recommendation.
+<br>ICWS 2022. 
+<br>[[paper]](https://ieeexplore.ieee.org/abstract/document/9885757)
+
+* Attentional Memory Network with Correlation-based Embedding for time-aware POI recommendation. 
+<br>Knowledge-Based Systems 2021. 
+<br>[[paper]](https://doi.org/10.1016/j.knosys.2021.106747)
+
+* An attention-based category-aware GRU model for the next POI recommendation**. 
+<br>International Journal of INTELLIGENT SYSTEMS 2021. 
+<br>[[paper]]( https://doi.org/10.1002/int.22412)
+
+* MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation.
+<br>IJCAI 2021. 
+<br>[[paper]](https://www.ijcai.org/proceedings/2021/415)
 
 
-2022
-1. **URPI-GRU: An approach of next POI recommendation based on user relationship and preference information**. Knowledge-Based Systems 2022. [[paper]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT200368?viewType=HTML)
-2. **Next-point-of-interest recommendation based on joint mining of regularity and randomness**. Knowledge-Based Systems 2022. [[paper]](https://doi.org/10.1016/j.knosys.2022.109848)
+#### 2022
+* URPI-GRU: An approach of next POI recommendation based on user relationship and preference information. 
+<br>Knowledge-Based Systems 2022. 
+<br>[[paper]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT200368?viewType=HTML)
+
+* Next-point-of-interest recommendation based on joint mining of regularity and randomness. 
+<br>Knowledge-Based Systems 2022. 
+<br>[[paper]](https://doi.org/10.1016/j.knosys.2022.109848)
 
 
 
@@ -77,23 +132,24 @@ Conference on Artificial Intelligence 2020. [[paper]](https://doi.org/10.1609/aa
 
 ### Transformer_Models
 
-2021
-1. **SNPR: A Serendipity-Oriented Next POI Recommendation Model**. CIKM 2021. [[paper]](https://doi.org/10.1145/3459637.3482394)
-2. **Origin-Aware Next Destination Recommendation with Personalized Preference Attention**[[Paper]](https://dl.acm.org/doi/10.1145/3437963.3441797)
+#### 2021
+* SNPR: A Serendipity-Oriented Next POI Recommendation Model**. CIKM 2021. [[paper]](https://doi.org/10.1145/3459637.3482394)
 
-2022
-1. **GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
-2. **STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
-3. **Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
-4. **Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
-5. **Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network**. [[Paper]](https://dl.acm.org/doi/10.1145/3477495.3531905)
-6. **Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences**.[[Paper]](https://www.ijcai.org/proceedings/2022/521)
+* Origin-Aware Next Destination Recommendation with Personalized Preference Attention**[[Paper]](https://dl.acm.org/doi/10.1145/3437963.3441797)
 
+#### 2022
+* GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation**. SIGIR 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
 
+* STaTRL: Spatial-temporal and text representation learning for POI recommendation**. Applied Intelligence 2022. [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
 
+* Spatial-Temporal Interval Aware Sequential POI Recommendation**.ICDE 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9835452)
 
+* Hierarchical Transformer with Spatio-Temporal Context Aggregation for Next Point-of-Interest Recommendation**.arXiv 2022. [[Paper]](https://doi.org/10.48550/arXiv.2209.01559)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Next Point-of-Interest Recommendation with Auto-Correlation Enhanced Multi-Modal Transformer Network**. [[Paper]](https://dl.acm.org/doi/10.1145/3477495.3531905)
+
+* Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences**.[[Paper]](https://www.ijcai.org/proceedings/2022/521)
+
 
 
 ### Graph_Learning_Based_Models
