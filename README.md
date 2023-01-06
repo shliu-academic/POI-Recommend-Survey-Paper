@@ -1,6 +1,9 @@
 # Spatio Temporal Network For Next POI Recommendation
-paper：基于深度学习时空网络的poi推荐。同时考虑时间因素和空间因素的深度学习时空网络模型的的论文进行调研。主要调研近三年：2020年到2022年，以下是粗略调研一共76篇论文。
-google中检索论文标题、摘要、关键字中带有时空和poi的论文
+paper：基于深度学习时空网络的poi推荐；
+调研近三年：2020-2022；
+通过IEEE Xplore、ScienceDirect、ACM Digital Library、Springer和AI-Paper-Search进行检索；
+检索词包括："time"、"Geographic"、"Spatio"、"Temporal"、"Network"、"POI"、"location"、"Recommendation"；
+只筛选涉及到深度学习领域的paper；
 
 
 Table of Contents
