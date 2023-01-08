@@ -32,9 +32,8 @@ Table of Contents
 <br>2021 International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9545948)
 
-### 2022
 * A survey on deep learning based Point-of-Interest (POI) recommendations. 
-<br>Neurocomputing. 
+<br>Neurocomputing　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.neucom.2021.05.114)
 
 
@@ -86,7 +85,7 @@ Table of Contents
 <br>[[paper]](http://184pc128.csie.ntnu.edu.tw/presentation/21-04-12/An%20Interactive%20Multi-Task%20Learning%20Framework%20for%20Next%20POI%20Recommendation%20with%20Uncertain%20Check-ins.pdf)
 
 * Exploiting geographical-temporal awareness attention for next point-of-interest recommendation. 
-<br>Neurocomputing. 
+<br>Neurocomputing　　　　　　　　　　　ScienceDirect
 <br>[[paper]](https://doi.org/10.1016/j.neucom.2019.12.122)
 
 * Time-aware location prediction by convolutional area-of-interest modeling and memory-augmented attentive lstm. 
@@ -120,7 +119,7 @@ Table of Contents
 <br>[[paper]](https://doi.org/10.1016/j.ins.2020.08.088)
 
 * Attentional Memory Network with Correlation-based Embedding for time-aware POI recommendation. 
-<br>Knowledge-Based Systems 2021. 
+<br>Knowledge-Based Systems　　　　　　　　　　ScienceDirect
 <br>[[paper]](https://doi.org/10.1016/j.knosys.2021.106747)
 
 * An attention-based category-aware GRU model for the next POI recommendation**. 
@@ -204,7 +203,7 @@ Table of Contents
 
 #### 2020
 * Dynamic discovery of favorite locations in spatio-temporal social networks. 
-<br>Information Processing and Management. 
+<br>Information Processing and Management.　　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
 
 * STP-UDGAT: Spatial-Temporal-Preference User Dimensional Graph Attention Network for Next POI Recommendation. 
@@ -216,12 +215,17 @@ Table of Contents
 <br>[[Paper]](https://ieeexplore.ieee.org/document/9338281) 
 
 * Heterogeneous graph-based joint representation learning for users and POIs in location-based social network. 
-<br>Information Processing & Management. 
+<br>Information Processing & Management　　　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.ipm.2019.102151) 
 
 * Modeling spatial trajectories with attribute representation learning. 
 <br>IEEE Transactions on Knowledge and Data Engineering. 
 <br>[[Paper]](https://ieeexplore.ieee.org/document/9112685) 
+
+* Heterogeneous graph-based joint representation learning for users and POIs in location-based social network
+<br>Information Processing & Management　　　　　　　　　　　　ScienceDirect
+<br>[[Paper]](https://www.sciencedirect.com/science/article/pii/S0306457319305114) 
+
 
 #### 2021
 * A graph embedding based model for fine-grained POI recommendation**. 
@@ -265,7 +269,7 @@ Table of Contents
 #### 2022
 
 * Building and exploiting spatial–temporal knowledge graph for next POI recommendation. 
-<br>Knowledge-Based Systems  
+<br>Knowledge-Based Systems  　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.knosys.2022.109951) 
 
 * Learning Graph-based Disentangled Representations for Next POI Recommendation. 
@@ -326,6 +330,19 @@ Table of Contents
 <br>IEEE Transactions on Intelligent Transportation Systems. 
 <br>[[Paper]](https://ieeexplore.ieee.org/document/9064808)
 
+* GLR: A graph-based latent representation model for successive POI recommendation.
+<br>Future Generation Computer Systems　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X19303966)
+
+* Exploiting bi-directional global transition patterns and personal preferences for missing POI category identification.
+<br>Neural Networks　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S089360802030304X)
+
+* Efficient point-of-interest recommendation with hierarchical attention mechanism
+<br>Applied Soft Computing　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S1568494620304750)
+
+
 #### 2021
 * Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie. 
 <br>DASFAA 
@@ -336,7 +353,7 @@ Table of Contents
 <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9533980)
 
 * Leveraging graph neural networks for point-of-interest recommendations. 
-<br>Neurocomputing 
+<br>Neurocomputing　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.neucom.2021.07.063)
 
 * An integrated model based on deep multimodal and rank learning for point-of-interest recommendation.
@@ -354,6 +371,10 @@ Table of Contents
 * Trajectory-User Linking via Graph Neural Network
 <br> ICC 2021 - IEEE International Conference on Communications.　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9500836)
+
+* Pair-wise ranking based preference learning for points-of-interest recommendation
+<br>Knowledge-Based Systems　　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0950705121003324)
 
 #### 2022
 * STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.
@@ -410,6 +431,11 @@ Table of Contents
 * Interest Point Recommendation based on Multi Scenario Information Fusion.
 <br> 2020 IEEE 2nd International Conference on Power Data Science (ICPDS)　　　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9332517)
+
+* Effective and diverse POI recommendations through complementary diversification models
+<br>Expert Systems with Applications　　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0957417421002165)
+
 
 #### 2022
 * Online POI Recommendation: Learning Dynamic Geo-Human Interactions in Streams.
