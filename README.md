@@ -36,6 +36,15 @@ Table of Contents
 <br>Neurocomputing　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.neucom.2021.05.114)
 
+* Real-time dynamic network learning for location inference modelling and computing. 
+<br>Neurocomputing　　　　　　　　　　ScienceDirect
+<br>[[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231221016143)
+
+### 2022
+* Individual mobility prediction review: Data, problem, method and application. 
+<br>Multimodal Transportation　　　　　　　　　　ScienceDirect
+<br>[[Paper]](https://www.sciencedirect.com/science/article/pii/S2772586322000028)
+
 
 
 ## Dataset
@@ -147,6 +156,10 @@ Table of Contents
 * Next-point-of-interest recommendation based on joint mining of regularity and randomness. 
 <br>Knowledge-Based Systems 2022. 
 <br>[[paper]](https://doi.org/10.1016/j.knosys.2022.109848)
+
+* Real-time POI recommendation via modeling long- and short-term user preferences.
+<br>Neurocomputing　　　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S092523122101434X)
 
 
 
@@ -308,6 +321,38 @@ Table of Contents
 <br>IEEE Transactions on Intelligent Transportation Systems.　　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9714731)
 
+* A top-k POI recommendation approach based on LBSN and multi-graph fusion
+<br>Neurocomputing　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0925231222013303)
+
+* FG-CF: Friends-aware graph collaborative filtering for POI recommendation
+<br>Neurocomputing　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0925231222002399)
+
+* Trust-aware location recommendation in location-based social networks: A graph-based approach
+<br>Expert Systems with Applications　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0957417422020668)
+
+* Contextual spatio-temporal graph representation learning for reinforced human mobility mining
+<br>Information Sciences　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0020025522004819)
+
+* TransMKR: Translation-based knowledge graph enhanced multi-task point-of-interest recommendation
+<br>Neurocomputing　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0925231221017239)
+
+* A points of interest recommendation framework based on effective representation of heterogeneous nodes in the Internet of Things
+<br>Computer Communications　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0140366422003590)
+
+* Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion
+<br>Information Fusion　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S1566253522002287)
+
+* Potential destination discovery for low predictability individuals based on knowledge graph
+<br>Transportation Research Part C: Emerging Technologies　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0968090X22003412)
+
 
 ### GAN_Models
 
@@ -404,6 +449,16 @@ Table of Contents
 * Personalized Recommendation of Location-Based Services Using Spatio-Temporal-Aware Long and Short Term Neural Network.
 <br>IEEE Access　　　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9754510)
+
+* Mapping user interest into hyper-spherical space: A novel POI recommendation method.
+<br>Information Processing & Management　　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0306457322002709)
+
+* Deep convolutional recurrent model for region recommendation with spatial and temporal contexts
+<br>Ad Hoc Networks　　　　　　　　　ScienceDirect
+<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S1570870521000937)
+
+
 
 ### Other_Models
 
