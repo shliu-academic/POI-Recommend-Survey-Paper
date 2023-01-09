@@ -417,6 +417,12 @@ Table of Contents
 <br>World Wide Web　　　　　　　　Springer
 <br>[[paper]](https://link.springer.com/article/10.1007/s11280-022-01094-3)
 
+
+* GARG: Anonymous Recommendation of Point-of-Interest in Mobile Networks by Graph Convolution Network
+<br>Data Science and Engineering　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s41019-020-00135-z)
+
+
 ### GAN_Models
 
 #### 2020
