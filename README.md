@@ -208,6 +208,12 @@ Table of Contents
 <br>2020 21st IEEE International Conference on Mobile Data Management (MDM).      　　　　 IEEE 
 <br>[[paper]](https://ieeexplore.ieee.org/document/9162322)
 
+### 2021
+* Tell Me Where to Go Next: Improving POI Recommendation via Conversation
+<br>DASFAA　　　　　　　　　　Springer
+<br>[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_14)
+
+
 
 ### Transformer_Models
 
@@ -292,6 +298,11 @@ Table of Contents
 <br>Multimedia Tools and Applications　　　　　　　　　　　　Springer
 <br>[[Paper]](https://link.springer.com/article/10.1007/s11042-019-08554-5) 
 
+* Relation Embedding for Personalised Translation-Based POI Recommendation
+<br>PAKDD　　　　　　　　　　　　Springer
+<br>[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-47426-3_5)
+
+
 #### 2021
 * A graph embedding based model for fine-grained POI recommendation**. 
 <br>Neurocomputing. 
@@ -340,7 +351,6 @@ Table of Contents
 
 
 #### 2022
-
 * Building and exploiting spatial–temporal knowledge graph for next POI recommendation. 
 <br>Knowledge-Based Systems  　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.knosys.2022.109951) 
@@ -430,6 +440,10 @@ Table of Contents
 <br>Data Science and Engineering　　　　　　　　Springer
 <br>[[paper]](https://link.springer.com/article/10.1007/s41019-020-00135-z)
 
+* GN-GCN: Combining Geographical Neighbor Concept with Graph Convolution Network for POI
+<br>iiWAS　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/chapter/10.1007/978-3-031-21047-1_15)
+
 
 ### GAN_Models
 
@@ -480,6 +494,25 @@ Table of Contents
 <br>Applied Intelligence　　　　　　　　Springer
 <br>[[paper]](https://link.springer.com/article/10.1007/s10489-020-01868-0)
 
+* Spatio-Temporal Self-Attention Network for Next POI Recommendation
+<br>APWeb-WAIM　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-60259-8_30)
+
+* DPR-Geo: A POI Recommendation Model Using Deep Neural Network and Geographical Influence
+<br>ICONIP　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-63836-8_35)
+
+* POI Recommendations Using Self-attention Based on Side Information
+<br>ICPCSEE　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/chapter/10.1007/978-981-15-7984-4_5)
+
+* From When to Where: A Multi-task Learning Approach for Next Point-of-Interest Recommendation
+<br>WASA　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-59016-1_64)
+
+* PDPNN: Modeling User Personal Dynamic Preference for Next Point-of-Interest Recommendation
+<br>ICCS　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-50433-5_4)
 
 #### 2021
 * Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie. 
