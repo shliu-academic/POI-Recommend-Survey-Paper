@@ -41,6 +41,10 @@ Table of Contents
 <br>Iran Journal of Computer Science 　　　　　　　　　　Springer
 <br>[[Paper]](https://link.springer.com/article/10.1007/s42044-019-00052-z)
 
+* Survey on user location prediction based on geo-social networking data
+<br>World Wide Web  　　　　　　　　　　Springer
+<br>[[Paper]](https://link.springer.com/article/10.1007/s11280-019-00777-8)
+
 
 ### 2021
 * Key Research on Recommendation Algorithms Based on Spatio-temporal Relationships in Location Social Networks.
@@ -67,6 +71,10 @@ Table of Contents
 * A survey of location-based social networks: problems, methods, and future research directions
 <br>GeoInformatica　　　　　　　　　　Springer
 <br>[[Paper]](https://link.springer.com/article/10.1007/s10707-021-00450-1)
+
+* A survey on next location prediction techniques, applications, and challenges
+<br>EURASIP Journal on Wireless Communications and Networking　　　　　　　　　　Springer
+<br>[[Paper]](https://link.springer.com/article/10.1186/s13638-022-02114-6)
 
 
 ## Dataset
@@ -468,6 +476,10 @@ Table of Contents
 <br>Frontiers of Computer Science volume　　　　　　　　Springer
 <br>[[paper]](https://link.springer.com/article/10.1007/s11704-018-8011-2)
 
+* Exploiting multi-attention network with contextual influence for point-of-interest recommendation
+<br>Applied Intelligence　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s10489-020-01868-0)
+
 
 #### 2021
 * Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie. 
@@ -566,10 +578,19 @@ Table of Contents
 <br>ACM Transactions on Information Systems　　　　　　　　　ACM
 <br>[[paper]](https://doi.org/10.1145/3464300)
 
-
 * Decentralized Collaborative Learning Framework for Next POI Recommendation
 <br>ACM Transactions on Information Systems　　　　　　　　　ACM
 <br>[[paper]](https://doi.org/10.1145/3555374)
+
+* Influence-Aware Successive Point-of-Interest Recommendation
+<br>World Wide Web　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s11280-022-01055-w)
+
+* Group-based recurrent neural network for human mobility prediction
+<br>Neural Computing and Applications　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s00521-022-06971-6)
+
+
 
 ### Other_Models
 
