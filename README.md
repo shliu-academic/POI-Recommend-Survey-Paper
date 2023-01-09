@@ -209,7 +209,7 @@ Table of Contents
 <br>[[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
 
 * STaTRL: Spatial-temporal and text representation learning for POI recommendation. 
-<br>Applied Intelligence. 
+<br>Applied Intelligence　　　　　　　　　　　　Springer
 <br>[[Paper]](https://link.springer.com/article/10.1007/s10489-022-03858-w)
 
 * Spatial-Temporal Interval Aware Sequential POI Recommendation.
@@ -232,7 +232,9 @@ Table of Contents
 <br>2022 5th International Conference on Data Science and Information Technology (DSIT)　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9943896)
 
-
+* POI recommendation with queuing time and user interest awareness
+<br>Data Mining and Knowledge Discovery　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s10618-022-00865-w)
 
 ### Graph_Learning_Based_Models
 
@@ -264,6 +266,10 @@ Table of Contents
 * Spatio-Temporal Dual Graph Attention Network for Query-POI Matching
 <br>SIGIR　　　　　　　　　　　　ACM
 <br>[[Paper]](https://doi.org/10.1145/3397271.3401159) 
+
+* Hybrid graph convolutional networks with multi-head attention for location recommendation
+<br>World Wide Web　　　　　　　　　　　　Springer
+<br>[[Paper]](https://link.springer.com/article/10.1007/s11280-020-00824-9) 
 
 
 #### 2021
@@ -306,6 +312,10 @@ Table of Contents
 * Personalized Point-of-Interest Recommendation Based on Social and Geographical Influence.
 <br>AICCC　　　　　　　　ACM
 <br>[[paper]](https://doi.org/10.1145/3508259.3508278)
+
+* Attentive sequential model based on graph neural network for next poi recommendation
+<br>World Wide Web 　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s11280-021-00961-9)
 
 
 
@@ -429,6 +439,15 @@ Table of Contents
 <br>ICBDC　　　　　　　　ACM
 <br>[[paper]](https://doi.org/10.1145/3404687.3404699)
 
+* Exploring multiple spatio-temporal information for point-of-interest recommendation
+<br>Soft Computing　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s00500-020-05107-z)
+
+* NEXT: a neural network framework for next POI recommendation
+<br>Frontiers of Computer Science volume　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s11704-018-8011-2)
+
+
 #### 2021
 * Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie. 
 <br>DASFAA 
@@ -477,6 +496,15 @@ Table of Contents
 * DAN-SNR: A Deep Attentive Network for Social-aware Next Point-of-interest Recommendation
 <br>ACM Transactions on Internet Technology　　　　　　　　　ACM
 <br>[[paper]](https://doi.org/10.1145/3430504)
+
+* POI recommendation method using LSTM-attention in LBSN considering privacy protection
+<br>Complex & Intelligent Systems　　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s40747-021-00440-8)
+
+
+* HOPE: a hybrid deep neural model for out-of-town next POI recommendation
+<br>World Wide Web　　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s11280-021-00895-2)
 
 
 
