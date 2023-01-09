@@ -90,7 +90,7 @@ Table of Contents
 
 ### RNN_Based_Models
 
-#### 2020
+#### 2020(16)
 * Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!
 <br>IJCAI. 
 <br>[[paper]](https://www.ijcai.org/proceedings/2020/302)
@@ -156,7 +156,7 @@ Table of Contents
 <br>[[paper]](https://doi.org/10.1145/3397536.3422221)
 
 
-#### 2021
+#### 2021(6)
 * Towards real-time demand-aware sequential POI recommendation.
 <br>Information Sciences 2021. 
 <br>[[paper]](https://doi.org/10.1016/j.ins.2020.08.088)
@@ -183,7 +183,7 @@ Table of Contents
 
 
 
-#### 2022
+#### 2022(4)
 * Spatio-Temporal Mogrifier LSTM and Attention Network for Next POI Recommendation.
 <br>IEEE International Conference on Web Services(ICWS)      　　　　 IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/abstract/document/9885757)
@@ -217,7 +217,7 @@ Table of Contents
 
 ### Transformer_Models
 
-#### 2021
+#### 2021(2)
 * SNPR: A Serendipity-Oriented Next POI Recommendation Model. 
 <br>CIKM　　　　　　　　ACM
 <br>[[paper]](https://doi.org/10.1145/3459637.3482394)
@@ -226,7 +226,7 @@ Table of Contents
 <br>WSDM.
 <br>[[Paper]](https://dl.acm.org/doi/10.1145/3437963.3441797)
 
-#### 2022
+#### 2022(8)
 * GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation. 
 <br>SIGIR　　　　　　　　　ACM
 <br>[[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
@@ -261,7 +261,7 @@ Table of Contents
 
 ### Graph_Learning_Based_Models
 
-#### 2020
+#### 2020(10)
 * Dynamic discovery of favorite locations in spatio-temporal social networks. 
 <br>Information Processing and Management.　　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
@@ -303,7 +303,7 @@ Table of Contents
 <br>[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-47426-3_5)
 
 
-#### 2021
+#### 2021(11)
 * A graph embedding based model for fine-grained POI recommendation**. 
 <br>Neurocomputing. 
 <br>[[Paper]](https://doi.org/10.1016/j.neucom.2020.01.118)
@@ -350,7 +350,7 @@ Table of Contents
 
 
 
-#### 2022
+#### 2022(23)
 * Building and exploiting spatial–temporal knowledge graph for next POI recommendation. 
 <br>Knowledge-Based Systems  　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.knosys.2022.109951) 
@@ -457,7 +457,7 @@ Table of Contents
 
 ### Mixture_Models
 
-#### 2020
+#### 2020(14)
 * Personalized Geographical Influence Modeling for POI Recommendation.  
 <br>IEEE Intelligent Systems 
 <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9102414)
@@ -514,7 +514,7 @@ Table of Contents
 <br>ICCS　　　　　　　　Springer
 <br>[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-50433-5_4)
 
-#### 2021
+#### 2021(14)
 * Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie. 
 <br>DASFAA 
 <br>[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_37)
@@ -574,7 +574,7 @@ Table of Contents
 
 
 
-#### 2022
+#### 2022(12)
 * STAN: Spatio-Temporal Attention Network for Next Location Recommendation.
 <br>WWW 　　　　　　　　　ACM
 <br>[[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)
