@@ -5,7 +5,7 @@ paper：基于深度学习时空网络的poi推荐；
 
 通过IEEE Xplore、ScienceDirect、ACM Digital Library、Springer和AI-Paper-Search进行检索；
 
-检索词包括："time"、"Geographic"、"Spatio"、"Temporal"、"Network"、"POI"、"location"、"Recommendation"；
+检索：("deep learning" OR "Graph learning") AND ("spatio" OR "geographic") AND ("temporal" OR "time") AND "Network" AND ("poi recommendation" OR "location recommendation")
 
 只筛选涉及到深度学习领域的paper；
 
