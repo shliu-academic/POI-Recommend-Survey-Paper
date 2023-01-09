@@ -165,8 +165,8 @@ Table of Contents
 <br>Knowledge-Based Systems　　　　　　　　　　ScienceDirect
 <br>[[paper]](https://doi.org/10.1016/j.knosys.2021.106747)
 
-* An attention-based category-aware GRU model for the next POI recommendation**. 
-<br>International Journal of INTELLIGENT SYSTEMS 2021. 
+* An attention-based category-aware GRU model for the next POI recommendation. 
+<br>International Journal of INTELLIGENT SYSTEMS 
 <br>[[paper]]( https://doi.org/10.1002/int.22412)
 
 * MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation.
@@ -580,7 +580,7 @@ Table of Contents
 <br>[[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)
 
 * Empowering Next POI Recommendation with Multi-Relational Modeling.
-<br>arXiv  
+<br>arXiv
 <br>[[paper]](https://doi.org/10.48550/arXiv.2204.12288)
 
 * Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
