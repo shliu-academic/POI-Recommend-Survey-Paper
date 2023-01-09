@@ -27,6 +27,15 @@ Table of Contents
     * [Other Models](#Other_Models)
 
 ## Survey
+### 2019
+* Location prediction in large-scale social networks: an in-depth benchmarking study. 
+<br>The VLDB Journal　　　　　　　　　　ACM
+<br>[[Paper]](https://doi.org/10.1007/s00778-019-00553-0)
+### 2020
+* A Survey on Point-of-Interest Recommendation in Location-based Social Networks. 
+<br>WebMedia　　　　　　　　　　ACM
+<br>[[Paper]](https://doi.org/10.1145/3428658.3430970)
+
 ### 2021
 * Key Research on Recommendation Algorithms Based on Spatio-temporal Relationships in Location Social Networks.
 <br>2021 International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)　　　　　　　IEEE
@@ -44,6 +53,10 @@ Table of Contents
 * Individual mobility prediction review: Data, problem, method and application. 
 <br>Multimodal Transportation　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://www.sciencedirect.com/science/article/pii/S2772586322000028)
+
+* Point-of-Interest Recommender Systems Based on Location-Based Social Networks: A Survey from an Experimental Perspective
+<br>ACM Computing Surveys　　　　　　　　　　ACM
+<br>[[Paper]](https://doi.org/10.1145/3510409)
 
 
 
@@ -121,6 +134,10 @@ Table of Contents
 <br>IEEE Transactions on Knowledge and Data Engineering 　　　　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9133505)
 
+* DualSIN: Dual Sequential Interaction Network for Human Intentional Mobility Prediction.
+<br>SIGSPATIAL  　　　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3397536.3422221)
+
 
 #### 2021
 * Towards real-time demand-aware sequential POI recommendation.
@@ -142,6 +159,11 @@ Table of Contents
 * A Context-Aware POI Recommendation.
 <br>TENCON 2021 - 2021 IEEE Region 10 Conference (TENCON)　　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9707376)
+
+* PS-LSTM:Popularity Analysis And Social Network For Point-Of-Interest Recommendation In Previously Unvisited Locations.
+<br>CNIOT 　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3468691.3468720)
+
 
 
 #### 2022
@@ -174,7 +196,7 @@ Table of Contents
 
 #### 2021
 * SNPR: A Serendipity-Oriented Next POI Recommendation Model. 
-<br>CIKM. 
+<br>CIKM　　　　　　　　ACM
 <br>[[paper]](https://doi.org/10.1145/3459637.3482394)
 
 * Origin-Aware Next Destination Recommendation with Personalized Preference Attention
@@ -183,7 +205,7 @@ Table of Contents
 
 #### 2022
 * GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation. 
-<br>SIGIR. 
+<br>SIGIR　　　　　　　　　ACM
 <br>[[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531983)
 
 * STaTRL: Spatial-temporal and text representation learning for POI recommendation. 
@@ -239,6 +261,10 @@ Table of Contents
 <br>Information Processing & Management　　　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://www.sciencedirect.com/science/article/pii/S0306457319305114) 
 
+* Spatio-Temporal Dual Graph Attention Network for Query-POI Matching
+<br>SIGIR　　　　　　　　　　　　ACM
+<br>[[Paper]](https://doi.org/10.1145/3397271.3401159) 
+
 
 #### 2021
 * A graph embedding based model for fine-grained POI recommendation**. 
@@ -246,7 +272,7 @@ Table of Contents
 <br>[[Paper]](https://doi.org/10.1016/j.neucom.2020.01.118)
 
 * Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching. 
-<br>WWW 
+<br>WWW 　　　　　　　　　ACM
 <br>[[Paper]](https://doi.org/10.1145/3442381.3449810)
 
 * Time-aware User Modeling with Check-in Time Prediction for Next POI Recommendation. 
@@ -277,6 +303,10 @@ Table of Contents
 <br>IEEE Access　　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9551972)
 
+* Personalized Point-of-Interest Recommendation Based on Social and Geographical Influence.
+<br>AICCC　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3508259.3508278)
+
 
 
 #### 2022
@@ -286,7 +316,7 @@ Table of Contents
 <br>[[Paper]](https://doi.org/10.1016/j.knosys.2022.109951) 
 
 * Learning Graph-based Disentangled Representations for Next POI Recommendation. 
-<br>SIGIR
+<br>SIGIR　　　　　　　　　　　　　ACM
 <br>[[Paper]](https://doi.org/10.1145/3477495.3532012) 
 
 * An Attention-Based Spatiotemporal GGNN for Next POI Recommendation. 
@@ -353,6 +383,14 @@ Table of Contents
 <br>Transportation Research Part C: Emerging Technologies　　　　　　　　ScienceDirect
 <br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0968090X22003412)
 
+* Utilization of Real Time Behavior and Geographical Attraction for Location Recommendation
+<br>ACM Transactions on Spatial Algorithms and Systems　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3484318)
+
+* Predicting Human Mobility via Graph Convolutional Dual-attentive Networks
+<br>WSDM　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3488560.3498400)
+
 
 ### GAN_Models
 
@@ -387,6 +425,9 @@ Table of Contents
 <br>Applied Soft Computing　　　　　　　　ScienceDirect
 <br>[[paper]](https://www.sciencedirect.com/science/article/pii/S1568494620304750)
 
+* Next Location Recommendation Based on Semantic-Behavior Prediction
+<br>ICBDC　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3404687.3404699)
 
 #### 2021
 * Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie. 
@@ -421,9 +462,27 @@ Table of Contents
 <br>Knowledge-Based Systems　　　　　　　　　ScienceDirect
 <br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0950705121003324)
 
+* Curriculum Meta-Learning for Next POI Recommendation
+<br>KDD　　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3447548.3467132)
+
+* POI Recommendation Algorithm for Mobile Social Network Based on User Perference Tracking
+<br>CONF-CDS　　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3448734.3450802)
+
+* Clustering-based Location Authority Deep Model in the Next Point-of-Interest Recommendation
+<br>WI-IAT　　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3486622.3493943)
+
+* DAN-SNR: A Deep Attentive Network for Social-aware Next Point-of-interest Recommendation
+<br>ACM Transactions on Internet Technology　　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3430504)
+
+
+
 #### 2022
-* STAN: Spatio-Temporal Attention Network for Next Location Recommendation**.
-<br>WWW 
+* STAN: Spatio-Temporal Attention Network for Next Location Recommendation.
+<br>WWW 　　　　　　　　　ACM
 <br>[[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998)
 
 * Empowering Next POI Recommendation with Multi-Relational Modeling.
@@ -433,10 +492,6 @@ Table of Contents
 * Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation.
 <br>ICLR 
 <br>[[paper]](https://openreview.net/forum?id=9W2KnHqm_xN)
-
-* STAN: Spatio-Temporal Attention Network for Next Location Recommendation.
-<br>WWW  
-<br>[[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449998) 
 
 * Point-of-interest recommendation model considering strength of user relationship for location-based social networks.
 <br>Expert Systems with Applications.　　　　　　　　ScienceDirect
@@ -458,7 +513,14 @@ Table of Contents
 <br>Ad Hoc Networks　　　　　　　　　ScienceDirect
 <br>[[paper]](https://www.sciencedirect.com/science/article/pii/S1570870521000937)
 
+* CHA: Categorical Hierarchy-based Attention for Next POI Recommendation
+<br>ACM Transactions on Information Systems　　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3464300)
 
+
+* Decentralized Collaborative Learning Framework for Next POI Recommendation
+<br>ACM Transactions on Information Systems　　　　　　　　　ACM
+<br>[[paper]](https://doi.org/10.1145/3555374)
 
 ### Other_Models
 
