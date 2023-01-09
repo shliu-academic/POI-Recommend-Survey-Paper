@@ -31,10 +31,16 @@ Table of Contents
 * Location prediction in large-scale social networks: an in-depth benchmarking study. 
 <br>The VLDB Journal　　　　　　　　　　ACM
 <br>[[Paper]](https://doi.org/10.1007/s00778-019-00553-0)
+
 ### 2020
 * A Survey on Point-of-Interest Recommendation in Location-based Social Networks. 
 <br>WebMedia　　　　　　　　　　ACM
 <br>[[Paper]](https://doi.org/10.1145/3428658.3430970)
+
+* A comprehensive survey on trajectory-based location prediction
+<br>Iran Journal of Computer Science 　　　　　　　　　　Springer
+<br>[[Paper]](https://link.springer.com/article/10.1007/s42044-019-00052-z)
+
 
 ### 2021
 * Key Research on Recommendation Algorithms Based on Spatio-temporal Relationships in Location Social Networks.
@@ -58,6 +64,9 @@ Table of Contents
 <br>ACM Computing Surveys　　　　　　　　　　ACM
 <br>[[Paper]](https://doi.org/10.1145/3510409)
 
+* A survey of location-based social networks: problems, methods, and future research directions
+<br>GeoInformatica　　　　　　　　　　Springer
+<br>[[Paper]](https://link.springer.com/article/10.1007/s10707-021-00450-1)
 
 
 ## Dataset
@@ -271,6 +280,9 @@ Table of Contents
 <br>World Wide Web　　　　　　　　　　　　Springer
 <br>[[Paper]](https://link.springer.com/article/10.1007/s11280-020-00824-9) 
 
+* A neural multi-context modeling framework for personalized attraction recommendation
+<br>Multimedia Tools and Applications　　　　　　　　　　　　Springer
+<br>[[Paper]](https://link.springer.com/article/10.1007/s11042-019-08554-5) 
 
 #### 2021
 * A graph embedding based model for fine-grained POI recommendation**. 
@@ -401,6 +413,9 @@ Table of Contents
 <br>WSDM　　　　　　　　ACM
 <br>[[paper]](https://doi.org/10.1145/3488560.3498400)
 
+* Mining multiple sequential patterns through multi-graph representation for next point-of-interest recommendation
+<br>World Wide Web　　　　　　　　Springer
+<br>[[paper]](https://link.springer.com/article/10.1007/s11280-022-01094-3)
 
 ### GAN_Models
 
