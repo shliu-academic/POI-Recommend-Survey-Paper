@@ -131,10 +131,6 @@ Table of Contents
 <br>IEEE Transactions on Knowledge and Data Engineering 2020. 
 <br>[[paper]](https://ieeexplore.ieee.org/document/9128016)
 
-* Where to go next: A spatio-temporal gated network for next poi recommendation. 
-<br>Proceedings of the AAAI Conference on Artificial Intelligence 2020. 
-<br>[[paper]](https://ieeexplore.ieee.org/document/9133505)
-
 * TimeSAN: A Time-Modulated Self-Attentive Network for Next Point-of-Interest Recommendation. 
 <br>IJCNN 2020. 
 <br>[[paper]](https://people.eng.unimelb.edu.au/jianzhongq/papers/IJCNN2020_TimeSAN.pdf)
