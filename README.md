@@ -9,7 +9,7 @@ paper：基于深度学习时空网络的poi推荐；
 
 只筛选涉及到深度学习领域的paper；
 
-以下是通过论文内的摘要进行粗略地分类(152篇)。
+以下是通过论文内的摘要进行粗略地分类(150篇左右)。
 
 Table of Contents
 =================
@@ -90,7 +90,7 @@ Table of Contents
 
 ### RNN_Based_Models
 
-#### 2020(16)
+#### 2020(15)
 * Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!
 <br>IJCAI. 
 <br>[[paper]](https://www.ijcai.org/proceedings/2020/302)
