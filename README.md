@@ -3,7 +3,7 @@ paper：基于深度学习时空网络的poi推荐；
 
 调研近三年：2020-2022；
 
-通过IEEE Xplore、ScienceDirect、ACM Digital Library、Springer和AI-Paper-Search进行检索；
+通过IEEE Xplore、ScienceDirect、ACM Digital Library、Springer和[[AI-Paper-Search]](https://ai-paper-collector.vercel.app/)进行检索；
 
 检索：("deep learning" OR "Graph learning") AND ("spatio" OR "geographic") AND ("temporal" OR "time") AND "Network" AND ("poi recommendation" OR "location recommendation")
 
