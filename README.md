@@ -22,9 +22,8 @@ Table of Contents
     * [CNN Based Models](#CNN_Based_Models)
     * [Transformer Models](#Transformer_Models)
     * [Graph Learning Based Models](#Graph_Learning_Based_Models)
-    * [GAN Models](#GAN_Models)
     * [Mixture Models](#Mixture_Models)
-    * [Other Models](#Other_Models)
+<!--    * [Other Models](#Other_Models)  -->
 
 ## Survey
 ### 2019
@@ -147,9 +146,6 @@ Table of Contents
 <br>IEEE Transactions on Knowledge and Data Engineering 　　　　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9133505)
 
-* DualSIN: Dual Sequential Interaction Network for Human Intentional Mobility Prediction.
-<br>SIGSPATIAL  　　　　　　　　　　ACM
-<br>[[paper]](https://doi.org/10.1145/3397536.3422221)
 
 
 #### 2021(6)
@@ -199,10 +195,6 @@ Table of Contents
 
 
 ### CNN_Based_Models
-#### 2020
-* Personalized tourism route recommendation based on user’s active interests
-<br>2020 21st IEEE International Conference on Mobile Data Management (MDM).      　　　　 IEEE 
-<br>[[paper]](https://ieeexplore.ieee.org/document/9162322)
 
 #### 2021
 * Tell Me Where to Go Next: Improving POI Recommendation via Conversation
@@ -274,17 +266,9 @@ Table of Contents
 <br>Information Processing & Management　　　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.ipm.2019.102151) 
 
-* Modeling spatial trajectories with attribute representation learning. 
-<br>IEEE Transactions on Knowledge and Data Engineering. 
-<br>[[Paper]](https://ieeexplore.ieee.org/document/9112685) 
-
 * Heterogeneous graph-based joint representation learning for users and POIs in location-based social network
 <br>Information Processing & Management　　　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://www.sciencedirect.com/science/article/pii/S0306457319305114) 
-
-* Spatio-Temporal Dual Graph Attention Network for Query-POI Matching
-<br>SIGIR　　　　　　　　　　　　ACM
-<br>[[Paper]](https://doi.org/10.1145/3397271.3401159) 
 
 * Hybrid graph convolutional networks with multi-head attention for location recommendation
 <br>World Wide Web　　　　　　　　　　　　Springer
@@ -300,13 +284,9 @@ Table of Contents
 
 
 #### 2021(11)
-* A graph embedding based model for fine-grained POI recommendation**. 
+* A graph embedding based model for fine-grained POI recommendation. 
 <br>Neurocomputing. 
 <br>[[Paper]](https://doi.org/10.1016/j.neucom.2020.01.118)
-
-* Incremental Spatio-Temporal Graph Learning for Online Query-POI Matching. 
-<br>WWW 　　　　　　　　　ACM
-<br>[[Paper]](https://doi.org/10.1145/3442381.3449810)
 
 * Time-aware User Modeling with Check-in Time Prediction for Next POI Recommendation. 
 <br>ICWS. 
@@ -323,10 +303,6 @@ Table of Contents
 * You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation.
 <br>CIKM. 
 <br>[[paper]](https://doi.org/10.1145/3459637.3481962)
-
-* Multi-network Embedding for Missing Point-of-Interest Identification
-<br> 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)　　　　　　　IEEE
-<br>[[paper]](https://ieeexplore.ieee.org/document/9644693)
 
 * CTHGAT:Category-aware and Time-aware Next Point-of-Interest via Heterogeneous Graph Attention Network
 <br>2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC)　　　　　　　　　IEEE
@@ -368,7 +344,7 @@ Table of Contents
 <br>[[Paper]](https://doi.org/10.1145/3534678.3539383) 
 
 * Interaction-Enhanced and Time-Aware Graph Convolutional Network for Successive Point-of-Interest Recommendation in Traveling Enterprises.  
-<br>IEEE Transactions on Industrial Informatics. 
+<br>IEEE Transactions on Industrial Informatics　　　　　IEEE
 <br>[[Paper]](https://ieeexplore.ieee.org/document/9863644) 
 
 * Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation.
@@ -376,12 +352,8 @@ Table of Contents
 <br>[[paper]](https://doi.org/10.1145/3340531.3411905)
 
 * A POI Recommendation Model with Temporal-Regional Based Graph Representation Learning.
-<br>2022 IEEE 5th International Conference on Information Systems and Computer Aided Education (ICISCAE)　　　　　IEEE
+<br>International Conference on Information Systems and Computer Aided Education (ICISCAE)　　　　　IEEE
 <br>[[Paper]](https://ieeexplore.ieee.org/document/9927672) 
-
-* Spatio-Temporal Digraph Convolutional Network-Based Taxi Pickup Location Recommendation.
-<br> IEEE Transactions on Industrial Informatics　　　　　IEEE
-<br>[[Paper]](https://ieeexplore.ieee.org/document/9793719) 
 
 * Location Recommendation Based on Mobility Graph With Individual and Group Influences.
 <br>IEEE Transactions on Intelligent Transportation Systems.　　　　　　　　IEEE
@@ -411,14 +383,6 @@ Table of Contents
 <br>Computer Communications　　　　　　　　ScienceDirect
 <br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0140366422003590)
 
-* Dual-grained human mobility learning for location-aware trip recommendation with spatial–temporal graph knowledge fusion
-<br>Information Fusion　　　　　　　　ScienceDirect
-<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S1566253522002287)
-
-* Potential destination discovery for low predictability individuals based on knowledge graph
-<br>Transportation Research Part C: Emerging Technologies　　　　　　　　ScienceDirect
-<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0968090X22003412)
-
 * Utilization of Real Time Behavior and Geographical Attraction for Location Recommendation
 <br>ACM Transactions on Spatial Algorithms and Systems　　　　　　　　ACM
 <br>[[paper]](https://doi.org/10.1145/3484318)
@@ -436,18 +400,9 @@ Table of Contents
 <br>Data Science and Engineering　　　　　　　　Springer
 <br>[[paper]](https://link.springer.com/article/10.1007/s41019-020-00135-z)
 
-* GN-GCN: Combining Geographical Neighbor Concept with Graph Convolution Network for POI
+* GN-GCN: Combining Geographical Neighbor Concept with Graph Convolution Network for POI Recommendation
 <br>iiWAS　　　　　　　　Springer
 <br>[[paper]](https://link.springer.com/chapter/10.1007/978-3-031-21047-1_15)
-
-
-### GAN_Models
-
-#### 2020
-* Adversarial Mobility Learning for Human Trajectory Classification. 
-<br>IEEE Access. 
-<br>[[Paper]](https://ieeexplore.ieee.org/document/8967063)
-
 
 
 
@@ -465,10 +420,6 @@ Table of Contents
 * GLR: A graph-based latent representation model for successive POI recommendation.
 <br>Future Generation Computer Systems　　　　　　　　ScienceDirect
 <br>[[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X19303966)
-
-* Exploiting bi-directional global transition patterns and personal preferences for missing POI category identification.
-<br>Neural Networks　　　　　　　　ScienceDirect
-<br>[[paper]](https://www.sciencedirect.com/science/article/pii/S089360802030304X)
 
 * Efficient point-of-interest recommendation with hierarchical attention mechanism
 <br>Applied Soft Computing　　　　　　　　ScienceDirect
@@ -515,7 +466,7 @@ Table of Contents
 <br>DASFAA 
 <br>[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_37)
 
-* Hierarchical and Multi-Resolution Preference Modeling for Next POI Recommendation**. 
+* Hierarchical and Multi-Resolution Preference Modeling for Next POI Recommendation. 
 <br>IJCNN  
 <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9533980)
 
@@ -534,10 +485,6 @@ Table of Contents
 * Social and Spatio-Temporal Learning for Contextualized Next Points-of-Interest Prediction.
 <br>  2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI).　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9643230)
-
-* Trajectory-User Linking via Graph Neural Network
-<br> ICC 2021 - IEEE International Conference on Communications.　　　　　　　IEEE
-<br>[[paper]](https://ieeexplore.ieee.org/document/9500836)
 
 * Pair-wise ranking based preference learning for points-of-interest recommendation
 <br>Knowledge-Based Systems　　　　　　　　　ScienceDirect
@@ -619,7 +566,7 @@ Table of Contents
 <br>Neural Computing and Applications　　　　　　　　Springer
 <br>[[paper]](https://link.springer.com/article/10.1007/s00521-022-06971-6)
 
-
+<!--
 
 ### Other_Models
 
@@ -658,6 +605,6 @@ Table of Contents
 <br>  IEEE Transactions on Big Data ( Early Access )　　　　　　　　　IEEE
 <br>[[paper]](https://ieeexplore.ieee.org/document/9921335)
 
-
+-->
 
 updated in 2022.11.14
