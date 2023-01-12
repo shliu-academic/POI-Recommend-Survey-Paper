@@ -9,7 +9,7 @@ paper：基于深度学习时空网络的poi推荐；
 
 只筛选涉及到深度学习领域的paper；
 
-以下是通过论文内的摘要进行粗略地分类(150篇左右)。
+以下是通过论文内的摘要进行粗略地分类(110篇)。
 
 Table of Contents
 =================
@@ -89,7 +89,7 @@ Table of Contents
 
 ### RNN_Based_Models
 
-#### 2020(15)
+#### 2020(14)
 * Location Prediction over Sparse User Mobility Traces Using RNNs: Flashback in Hidden States!
 <br>IJCAI. 
 <br>[[paper]](https://www.ijcai.org/proceedings/2020/302)
@@ -249,7 +249,7 @@ Table of Contents
 
 ### Graph_Learning_Based_Models
 
-#### 2020(10)
+#### 2020(8)
 * Dynamic discovery of favorite locations in spatio-temporal social networks. 
 <br>Information Processing and Management.　　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.ipm.2020.102337) 
@@ -283,7 +283,7 @@ Table of Contents
 <br>[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-47426-3_5)
 
 
-#### 2021(11)
+#### 2021(9)
 * A graph embedding based model for fine-grained POI recommendation. 
 <br>Neurocomputing. 
 <br>[[Paper]](https://doi.org/10.1016/j.neucom.2020.01.118)
@@ -322,7 +322,7 @@ Table of Contents
 
 
 
-#### 2022(23)
+#### 2022(20)
 * Building and exploiting spatial–temporal knowledge graph for next POI recommendation. 
 <br>Knowledge-Based Systems  　　　　　　　　　　ScienceDirect
 <br>[[Paper]](https://doi.org/10.1016/j.knosys.2022.109951) 
@@ -408,7 +408,7 @@ Table of Contents
 
 ### Mixture_Models
 
-#### 2020(14)
+#### 2020(13)
 * Personalized Geographical Influence Modeling for POI Recommendation.  
 <br>IEEE Intelligent Systems 
 <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/9102414)
@@ -461,7 +461,7 @@ Table of Contents
 <br>ICCS　　　　　　　　Springer
 <br>[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-50433-5_4)
 
-#### 2021(14)
+#### 2021(13)
 * Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie. 
 <br>DASFAA 
 <br>[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-73194-6_37)
